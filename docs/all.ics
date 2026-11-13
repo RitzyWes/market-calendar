@@ -337,7 +337,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/oxy/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-pbr-sep-2026@market-calendar
-DTSTAMP:20261113T105742Z
+DTSTAMP:20261113T105824Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:PBR earnings
@@ -345,19 +345,19 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\
  nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\
- nMarket cap $118B\nDate can still move until the company confirms it.
+ nMarket cap $115B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/pbr/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-pbr-a-sep-2026@market-calendar
-DTSTAMP:20261113T105742Z
+DTSTAMP:20261113T105824Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:PBR.A earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\
- nFiscal quarter ending Sep/2026\nMarket cap $118B\nDate can still move unt
+ nFiscal quarter ending Sep/2026\nMarket cap $115B\nDate can still move unt
  il the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/pbr.a/earnings
 END:VEVENT
@@ -842,7 +842,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/mdt/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-de-oct-2026@market-calendar
-DTSTAMP:20261113T105742Z
+DTSTAMP:20261113T105824Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:DE earnings (before open)
@@ -850,9 +850,9 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Deere & Company\nBefore the US market opens\; results usually o
  ut by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/202
- 6\nEPS forecast $4.07 (N/A analyst estimates)\nSame quarter last year $3.9
- 3 (reported N/A)\nMarket cap $187B\nDate can still move until the company 
- confirms it.
+ 6\nEPS forecast $4.07 (1 analyst estimates)\nSame quarter last year $3.93 
+ (reported N/A)\nMarket cap $187B\nDate can still move until the company co
+ nfirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/de/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -1037,16 +1037,17 @@ URL:https://fred.stlouisfed.org/releases/calendar?rid=50
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-azo-nov-2026@market-calendar
-DTSTAMP:20261113T105742Z
+DTSTAMP:20261113T105824Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
-SUMMARY:AZO earnings
+SUMMARY:AZO earnings (before open)
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
-DESCRIPTION:AutoZone\, Inc.\nTime of day not announced\nFiscal quarter endi
- ng Nov/2026\nEPS forecast $36.06 (9 analyst estimates)\nSame quarter last 
- year $31.04 (reported 12/09/2025)\nMarket cap $52B\nDate can still move un
- til the company confirms it.
+DESCRIPTION:AutoZone\, Inc.\nBefore the US market opens\; results usually o
+ ut by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Nov/202
+ 6\nEPS forecast $36.06 (9 analyst estimates)\nSame quarter last year $31.0
+ 4 (reported 12/09/2025)\nMarket cap $52B\nDate can still move until the co
+ mpany confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/azo/earnings
 END:VEVENT
 BEGIN:VEVENT

@@ -833,11 +833,11 @@
   "day": "2026-12-08",
   "start": "20261208",
   "end": "20261209",
-  "summary": "AZO earnings",
-  "description": "AutoZone, Inc.\nTime of day not announced\nFiscal quarter ending Nov/2026\nEPS forecast $36.06 (9 analyst estimates)\nSame quarter last year $31.04 (reported 12/09/2025)\nMarket cap $52B\nDate can still move until the company confirms it.",
+  "summary": "AZO earnings (before open)",
+  "description": "AutoZone, Inc.\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS forecast $36.06 (9 analyst estimates)\nSame quarter last year $31.04 (reported 12/09/2025)\nMarket cap $52B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/azo/earnings",
-  "hash": "4a38f379674988e55512e45ddb0538b25f0ec6fd",
-  "stamp": "20261113T105742Z"
+  "hash": "76fc4f65c3a6fe78a4323c4c7a68ca0188aec194",
+  "stamp": "20261113T105824Z"
  },
  "earnings-b-sep-2026@market-calendar": {
   "uid": "earnings-b-sep-2026@market-calendar",
@@ -1044,10 +1044,10 @@
   "start": "20261125",
   "end": "20261126",
   "summary": "DE earnings (before open)",
-  "description": "Deere & Company\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $4.07 (N/A analyst estimates)\nSame quarter last year $3.93 (reported N/A)\nMarket cap $187B\nDate can still move until the company confirms it.",
+  "description": "Deere & Company\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $4.07 (1 analyst estimates)\nSame quarter last year $3.93 (reported N/A)\nMarket cap $187B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/de/earnings",
-  "hash": "044d3d112bd19fc4417a6ccb009adeeaf7146d4a",
-  "stamp": "20261113T105742Z"
+  "hash": "8a9a83740fcb1de52fb5477a10c30a9f186e052c",
+  "stamp": "20261113T105824Z"
  },
  "earnings-dell-oct-2026@market-calendar": {
   "uid": "earnings-dell-oct-2026@market-calendar",
@@ -1394,10 +1394,10 @@
   "start": "20261110",
   "end": "20261111",
   "summary": "PBR.A earnings",
-  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nMarket cap $118B\nDate can still move until the company confirms it.",
+  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nMarket cap $115B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/pbr.a/earnings",
-  "hash": "419a92d045ffdd8e28445973c56b8852d7655d87",
-  "stamp": "20261113T105742Z"
+  "hash": "a31c6d805deec66c07c7ba92f710f5ae588c4273",
+  "stamp": "20261113T105824Z"
  },
  "earnings-pbr-sep-2026@market-calendar": {
   "uid": "earnings-pbr-sep-2026@market-calendar",
@@ -1408,10 +1408,10 @@
   "start": "20261110",
   "end": "20261111",
   "summary": "PBR earnings",
-  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\nMarket cap $118B\nDate can still move until the company confirms it.",
+  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\nMarket cap $115B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/pbr/earnings",
-  "hash": "86e451e3c47a8443a8f15f56a373030bca2fe4f3",
-  "stamp": "20261113T105742Z"
+  "hash": "ba9fff9c6720055b98392d6346e7a2e99ae8b895",
+  "stamp": "20261113T105824Z"
  },
  "earnings-pdd-sep-2026@market-calendar": {
   "uid": "earnings-pdd-sep-2026@market-calendar",
