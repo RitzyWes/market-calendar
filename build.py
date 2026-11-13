@@ -84,9 +84,9 @@ def money(s: str | None) -> float:
 
 
 def short_money(v: float) -> str:
-    for size, suffix in ((1e12, "T"), (1e9, "B"), (1e6, "M")):
+    for size, suffix, digits in ((1e12, "T", 1), (1e9, "B", 0), (1e6, "M", 0)):
         if v >= size:
-            return f"${v / size:.2f}{suffix}".replace(".00", "")
+            return f"${v / size:.{digits}f}{suffix}"
     return f"${v:,.0f}"
 
 
@@ -169,7 +169,7 @@ def src_earnings():
 def earnings_event(r, sym, cap, day):
     when = r.get("time") or ""
     if "pre-market" in when:
-        tag, hint = "before open", "Before the US market opens (results usually out by " + local_times(dt.datetime.combine(day, dt.time(8, 0), NY)) + ")"
+        tag, hint = "before open", "Before the US market opens; results usually out by " + local_times(dt.datetime.combine(day, dt.time(8, 0), NY))
     elif "after-hours" in when:
         tag, hint = "after close", "After the US market closes at " + local_times(dt.datetime.combine(day, dt.time(16, 0), NY))
     else:
