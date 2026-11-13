@@ -337,7 +337,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/oxy/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-pbr-sep-2026@market-calendar
-DTSTAMP:20261113T105333Z
+DTSTAMP:20261113T105614Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:PBR earnings
@@ -345,25 +345,25 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\
  nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\
- nMarket cap $117.80B\nDate can still move until the company confirms it.
+ nMarket cap $114.84B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/pbr/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-pbr-a-sep-2026@market-calendar
-DTSTAMP:20261113T105333Z
+DTSTAMP:20261113T105614Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:PBR.A earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\
- nFiscal quarter ending Sep/2026\nMarket cap $117.80B\nDate can still move 
+ nFiscal quarter ending Sep/2026\nMarket cap $114.84B\nDate can still move 
  until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/pbr.a/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-tdg-sep-2026@market-calendar
-DTSTAMP:20261113T105333Z
+DTSTAMP:20261113T105614Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:TDG earnings
@@ -371,7 +371,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Transdigm Group Incorporated\nTime of day not announced\nFiscal
   quarter ending Sep/2026\nEPS forecast $11.43 (5 analyst estimates)\nMarke
- t cap $67.74B\nDate can still move until the company confirms it.
+ t cap $67.96B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/tdg/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -390,15 +390,16 @@ URL:https://www.nasdaq.com/market-activity/stocks/amat/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-bn-sep-2026@market-calendar
-DTSTAMP:20261113T105333Z
+DTSTAMP:20261113T105614Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:BN earnings
+SUMMARY:BN earnings (before open)
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
-DESCRIPTION:Brookfield Corporation\nTime of day not announced\nFiscal quart
- er ending Sep/2026\nEPS forecast $0.72 (3 analyst estimates)\nMarket cap $
- 103.01B\nDate can still move until the company confirms it.
+DESCRIPTION:Brookfield Corporation\nBefore the US market opens (results usu
+ ally out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending 
+ Sep/2026\nEPS forecast $0.72 (3 analyst estimates)\nMarket cap $103.01B\nD
+ ate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/bn/earnings
 END:VEVENT
 BEGIN:VEVENT

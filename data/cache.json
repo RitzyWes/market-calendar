@@ -917,11 +917,11 @@
   "day": "2026-11-12",
   "start": "20261112",
   "end": "20261113",
-  "summary": "BN earnings",
-  "description": "Brookfield Corporation\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.72 (3 analyst estimates)\nMarket cap $103.01B\nDate can still move until the company confirms it.",
+  "summary": "BN earnings (before open)",
+  "description": "Brookfield Corporation\nBefore the US market opens (results usually out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending Sep/2026\nEPS forecast $0.72 (3 analyst estimates)\nMarket cap $103.01B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/bn/earnings",
-  "hash": "9f79032c90fe23e4447264f75dc880d185659891",
-  "stamp": "20261113T105333Z"
+  "hash": "1e777e6ff8add6c213dda7181f27535f279a6621",
+  "stamp": "20261113T105614Z"
  },
  "earnings-bns-oct-2026@market-calendar": {
   "uid": "earnings-bns-oct-2026@market-calendar",
@@ -1394,10 +1394,10 @@
   "start": "20261110",
   "end": "20261111",
   "summary": "PBR.A earnings",
-  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nMarket cap $117.80B\nDate can still move until the company confirms it.",
+  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nMarket cap $114.84B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/pbr.a/earnings",
-  "hash": "fd96a28830911234a8bb9c9b9137156c4e77ec4e",
-  "stamp": "20261113T105333Z"
+  "hash": "68b5587624ba10f67779481fa059e2de9a4fabc8",
+  "stamp": "20261113T105614Z"
  },
  "earnings-pbr-sep-2026@market-calendar": {
   "uid": "earnings-pbr-sep-2026@market-calendar",
@@ -1408,10 +1408,10 @@
   "start": "20261110",
   "end": "20261111",
   "summary": "PBR earnings",
-  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\nMarket cap $117.80B\nDate can still move until the company confirms it.",
+  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\nMarket cap $114.84B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/pbr/earnings",
-  "hash": "0986e5cee680a283d8fcb4a165ff606fa54c6470",
-  "stamp": "20261113T105333Z"
+  "hash": "73237248011eaa014c77e7cc8d509ecb0cc7299f",
+  "stamp": "20261113T105614Z"
  },
  "earnings-pdd-sep-2026@market-calendar": {
   "uid": "earnings-pdd-sep-2026@market-calendar",
@@ -1520,10 +1520,10 @@
   "start": "20261110",
   "end": "20261111",
   "summary": "TDG earnings",
-  "description": "Transdigm Group Incorporated\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $11.43 (5 analyst estimates)\nMarket cap $67.74B\nDate can still move until the company confirms it.",
+  "description": "Transdigm Group Incorporated\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $11.43 (5 analyst estimates)\nMarket cap $67.96B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/tdg/earnings",
-  "hash": "fe4ac8f2086e02290cbed698bb5a16e8bb8c4a74",
-  "stamp": "20261113T105333Z"
+  "hash": "bd1659289f7a71b8518ba7e65c7d5a78ec54dec7",
+  "stamp": "20261113T105614Z"
  },
  "earnings-tgt-oct-2026@market-calendar": {
   "uid": "earnings-tgt-oct-2026@market-calendar",
