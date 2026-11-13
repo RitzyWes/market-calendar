@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//market-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:IPOs
+X-WR-CALDESC:Upcoming and recently priced IPOs. Source: Nasdaq.
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:ipo-1407588-119709@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:IPO expected: Windward Bio Group AG (WWB)
+TRANSP:TRANSPARENT
+CATEGORIES:IPOs
+DESCRIPTION:Windward Bio Group AG\nExpected to price at $16.00-18.00 per sh
+ are\nRaising about $213.09M (10\,294\,117 shares)\nExchange: NASDAQ Global
+ \nExpected dates often move\; trading usually starts the day after pricing
+ .
+URL:https://www.nasdaq.com/market-activity/ipos
+END:VEVENT
+BEGIN:VEVENT
+UID:ipo-1235548-119602@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:IPO expected: vVARDIS Holding AG (VVVV)
+TRANSP:TRANSPARENT
+CATEGORIES:IPOs
+DESCRIPTION:vVARDIS Holding AG\nExpected to price at $21.00-24.00 per share
+ \nRaising about $262.86M (9\,523\,810 shares)\nExchange: NYSE\nExpected da
+ tes often move\; trading usually starts the day after pricing.
+URL:https://www.nasdaq.com/market-activity/ipos
+END:VEVENT
+BEGIN:VEVENT
+UID:ipo-1407642-119728@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:IPO expected: Anthropic\, PBC (ANT)
+TRANSP:TRANSPARENT
+CATEGORIES:IPOs
+DESCRIPTION:Anthropic\, PBC\nExpected to price at $70.00-78.00 per share\nR
+ aising about $74B (825\,000\,000 shares)\nExchange: NASDAQ Global Select\n
+ Expected dates often move\; trading usually starts the day after pricing.
+URL:https://www.nasdaq.com/market-activity/ipos
+END:VEVENT
+END:VCALENDAR

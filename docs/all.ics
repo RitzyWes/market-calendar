@@ -1,0 +1,2142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//market-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Markets
+X-WR-CALDESC:Earnings\, IPOs\, central bank decisions and US economic data.
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:fomc-2026-07-29@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20260729T180000Z
+DTEND:20260729T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 28 Jul to 29 Jul 2026.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-2989d2ad-202c-48c8-ab87-51eafc234f96@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 2nd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 2nd Quarter 2026\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-1c1f3485-7bdc-4174-adfa-d23ee238d78a@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, June 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, June 2026\nReleased by the Bureau
+  of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-ec627fed-777d-4cfa-b128-063926c3058e@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260804T123000Z
+DTEND:20260804T130000Z
+SUMMARY:US trade balance (June 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, June 2026\nRel
+ eased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Ams
+ terdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2026-07-29@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20260819T180000Z
+DTEND:20260819T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 29 July 2026 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-84d38d69-e462-4dc2-8f9b-636779fcced5@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2026\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-b279abe1-573d-4a3d-97c5-a2823b52054c@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, July 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, July 2026\nReleased by the Bureau
+  of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-1ef7db54-9b66-40b0-9518-932b3fb76e11@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260903T123000Z
+DTEND:20260903T130000Z
+SUMMARY:US trade balance (July 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, July 2026\nRel
+ eased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Ams
+ terdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2026-09-16@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20260916T180000Z
+DTEND:20260916T193000Z
+SUMMARY:Fed rate decision + press conference (with projections)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 15 Sep to 16 Sep 2026.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.\nIncludes th
+ e Summary of Economic Projections (dot plot).
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-1e85b6fb-a00d-4e0e-85dc-b2bde99e580f@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 2nd Quarter 2026\; State PCE\, 2025
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 2nd Quarter 2026\; State PCE\, 2025\nRele
+ ased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Amst
+ erdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-e28caae2-24c3-4772-8b33-e2334573db41@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, August 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, August 2026\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-e5470114-6282-4e32-894d-61734b5e353e@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261006T123000Z
+DTEND:20261006T130000Z
+SUMMARY:US trade balance (August 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, August 2026\nR
+ eleased by the Bureau of Economic Analysis at 08:30 New York time (14:30 A
+ msterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2026-09-16@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261007T180000Z
+DTEND:20261007T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 16 September 2026 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2026-10-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261028T180000Z
+DTEND:20261028T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 27 Oct to 28 Oct 2026.\nStatement at 14:00 New Yor
+ k time (19:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-afcb09fd-b564-4125-88aa-a0b23b358a6f@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 3rd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 3rd Quarter 2026\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (13:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-ff8bd8ad-bb92-43c5-8a30-7e7b5baa33c2@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, September 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, September 2026\nReleased by the B
+ ureau of Economic Analysis at 08:30 New York time (13:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a270c9cd-70a1-48d2-8924-cdebab79dc9a@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261104T133000Z
+DTEND:20261104T140000Z
+SUMMARY:US trade balance (September 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, September 2026
+ \nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:3
+ 0 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-bam-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:BAM earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Brookfield Asset Management\nTime of day not announced\nFiscal 
+ quarter ending Sep/2026\nEPS forecast $0.44 (5 analyst estimates)\nMarket 
+ cap $83.96B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/bam/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-enb-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:ENB earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Enbridge Inc\nTime of day not announced\nFiscal quarter ending 
+ Sep/2026\nEPS forecast $0.36 (5 analyst estimates)\nMarket cap $106.76B\nD
+ ate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/enb/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-hum-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:HUM earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Humana Inc.\nTime of day not announced\nFiscal quarter ending S
+ ep/2026\nEPS forecast ($1.03) (10 analyst estimates)\nMarket cap $53.60B\n
+ Date can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/hum/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-mrna-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:MRNA earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Moderna\, Inc.\nTime of day not announced\nFiscal quarter endin
+ g Sep/2026\nEPS forecast ($1.10) (7 analyst estimates)\nMarket cap $100.63
+ B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/mrna/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-b-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:B earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Barrick Mining Corporation\nTime of day not announced\nFiscal q
+ uarter ending Sep/2026\nEPS forecast $0.74 (5 analyst estimates)\nMarket c
+ ap $63.63B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/b/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-ceg-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:CEG earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Constellation Energy Corporation\nTime of day not announced\nFi
+ scal quarter ending Sep/2026\nEPS forecast $3.90 (5 analyst estimates)\nMa
+ rket cap $96.60B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/ceg/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-ferg-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:FERG earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Ferguson Enterprises Inc.\nTime of day not announced\nFiscal qu
+ arter ending Sep/2026\nEPS forecast $3.28 (4 analyst estimates)\nMarket ca
+ p $51.22B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/ferg/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-kkr-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:KKR earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:KKR & Co. Inc.\nTime of day not announced\nFiscal quarter endin
+ g Sep/2026\nEPS forecast $1.41 (7 analyst estimates)\nMarket cap $89.26B\n
+ Date can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/kkr/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-oxy-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:OXY earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Occidental Petroleum Corporation\nTime of day not announced\nFi
+ scal quarter ending Sep/2026\nEPS forecast $1.43 (10 analyst estimates)\nM
+ arket cap $57.23B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/oxy/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-pbr-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:PBR earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\
+ nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\
+ nMarket cap $117.80B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/pbr/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-pbr-a-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:PBR.A earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\
+ nFiscal quarter ending Sep/2026\nMarket cap $117.80B\nDate can still move 
+ until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/pbr.a/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-tdg-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:TDG earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Transdigm Group Incorporated\nTime of day not announced\nFiscal
+  quarter ending Sep/2026\nEPS forecast $11.43 (5 analyst estimates)\nMarke
+ t cap $67.74B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/tdg/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-amat-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:AMAT earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Applied Materials\, Inc.\nAfter the US market closes at 16:00 N
+ ew York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS foreca
+ st $4.06 (10 analyst estimates)\nMarket cap $313.53B\nDate can still move 
+ until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/amat/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-bn-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:BN earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Brookfield Corporation\nTime of day not announced\nFiscal quart
+ er ending Sep/2026\nEPS forecast $0.72 (3 analyst estimates)\nMarket cap $
+ 103.01B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/bn/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-csco-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:CSCO earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Cisco Systems\, Inc.\nAfter the US market closes at 16:00 New Y
+ ork time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $
+ 1.15 (8 analyst estimates)\nMarket cap $397.26B\nDate can still move until
+  the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/csco/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-nu-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:NU earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Nu Holdings Ltd.\nAfter the US market closes at 16:00 New York 
+ time (22:00 Amsterdam)\nFiscal quarter ending Sep/2026\nEPS forecast $0.22
+  (4 analyst estimates)\nMarket cap $59.82B\nDate can still move until the 
+ company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/nu/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:ipo-1407588-119709@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:IPO expected: Windward Bio Group AG (WWB)
+TRANSP:TRANSPARENT
+CATEGORIES:IPOs
+DESCRIPTION:Windward Bio Group AG\nExpected to price at $16.00-18.00 per sh
+ are\nRaising about $213.09M (10\,294\,117 shares)\nExchange: NASDAQ Global
+ \nExpected dates often move\; trading usually starts the day after pricing
+ .
+URL:https://www.nasdaq.com/market-activity/ipos
+END:VEVENT
+BEGIN:VEVENT
+UID:ipo-1235548-119602@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:IPO expected: vVARDIS Holding AG (VVVV)
+TRANSP:TRANSPARENT
+CATEGORIES:IPOs
+DESCRIPTION:vVARDIS Holding AG\nExpected to price at $21.00-24.00 per share
+ \nRaising about $262.86M (9\,523\,810 shares)\nExchange: NYSE\nExpected da
+ tes often move\; trading usually starts the day after pricing.
+URL:https://www.nasdaq.com/market-activity/ipos
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-mfg-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:MFG earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Mizuho Financial Group\, Inc.\nBefore the US market opens (resu
+ lts usually out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter 
+ ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nSame quarter la
+ st year $0.20 (reported 11/14/2025)\nMarket cap $126.48B\nDate can still m
+ ove until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/mfg/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-mufg-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:MUFG earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Mitsubishi UFJ Financial Group Inc\nTime of day not announced\n
+ Fiscal quarter ending Sep/2026\nEPS forecast $0.45 (1 analyst estimates)\n
+ Same quarter last year $0.44 (reported 11/14/2025)\nMarket cap $260.38B\nD
+ ate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/mufg/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-smfg-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:SMFG earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Sumitomo Mitsui Financial Group Inc\nBefore the US market opens
+  (results usually out by 08:00 New York time (14:00 Amsterdam))\nFiscal qu
+ arter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\nSame quar
+ ter last year $0.59 (reported 11/14/2025)\nMarket cap $157.95B\nDate can s
+ till move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/smfg/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-46-2026-11-13@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+SUMMARY:US PPI (producer prices)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=46
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-bhp-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:BHP earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:BHP Group Limited\nTime of day not announced\nFiscal quarter en
+ ding Sep/2026\nMarket cap $208.44B\nDate can still move until the company 
+ confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/bhp/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-dis-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:DIS earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Walt Disney Company (The)\nBefore the US market opens (results 
+ usually out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter endi
+ ng Sep/2026\nEPS forecast $1.67 (9 analyst estimates)\nSame quarter last y
+ ear $1.11 (reported 11/13/2025)\nMarket cap $206.60B\nDate can still move 
+ until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/dis/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-hd-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:HD earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Home Depot\, Inc. (The)\nBefore the US market opens (results us
+ ually out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending
+  Oct/2026\nEPS forecast $3.87 (11 analyst estimates)\nSame quarter last ye
+ ar $3.74 (reported 11/18/2025)\nMarket cap $350.50B\nDate can still move u
+ ntil the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/hd/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-nvda-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:NVDA earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:NVIDIA Corporation\nAfter the US market closes at 16:00 New Yor
+ k time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.
+ 49 (13 analyst estimates)\nSame quarter last year $1.24 (reported 11/19/20
+ 25)\nMarket cap $4.19T\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/nvda/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-pdd-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:PDD earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:PDD Holdings Inc.\nTime of day not announced\nFiscal quarter en
+ ding Sep/2026\nEPS forecast $2.61 (2 analyst estimates)\nSame quarter last
+  year $2.77 (reported 11/18/2025)\nMarket cap $112.46B\nDate can still mov
+ e until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/pdd/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-9-2026-11-17@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+SUMMARY:US retail sales
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=9
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-low-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:LOW earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Lowe's Companies\, Inc.\nBefore the US market opens (results us
+ ually out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending
+  Oct/2026\nEPS forecast $2.86 (11 analyst estimates)\nSame quarter last ye
+ ar $3.06 (reported 11/19/2025)\nMarket cap $129.94B\nDate can still move u
+ ntil the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/low/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-panw-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:PANW earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Palo Alto Networks\, Inc.\nAfter the US market closes at 16:00 
+ New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forec
+ ast $0.52 (15 analyst estimates)\nSame quarter last year $0.53 (reported 1
+ 1/19/2025)\nMarket cap $273.74B\nDate can still move until the company con
+ firms it.
+URL:https://www.nasdaq.com/market-activity/stocks/panw/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-tgt-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:TGT earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Target Corporation\nBefore the US market opens (results usually
+  out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending Oct/
+ 2026\nEPS forecast $2.03 (12 analyst estimates)\nSame quarter last year $1
+ .78 (reported 11/19/2025)\nMarket cap $73.91B\nDate can still move until t
+ he company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/tgt/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-tjx-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:TJX earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:TJX Companies\, Inc. (The)\nBefore the US market opens (results
+  usually out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter end
+ ing Oct/2026\nEPS forecast $1.33 (7 analyst estimates)\nSame quarter last 
+ year $1.28 (reported 11/19/2025)\nMarket cap $150.08B\nDate can still move
+  until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/tjx/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2026-10-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261118T190000Z
+DTEND:20261118T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 28 October 2026 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-baba-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:BABA earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Alibaba Group Holding Limited\nBefore the US market opens (resu
+ lts usually out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter 
+ ending Sep/2026\nEPS forecast $1.56 (2 analyst estimates)\nSame quarter la
+ st year $0.44 (reported 11/25/2025)\nMarket cap $245.93B\nDate can still m
+ ove until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/baba/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-intu-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:INTU earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Intuit Inc.\nAfter the US market closes at 16:00 New York time 
+ (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.47 (9 a
+ nalyst estimates)\nSame quarter last year $1.88 (reported 11/20/2025)\nMar
+ ket cap $91.57B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/intu/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:ipo-1407642-119728@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:IPO expected: Anthropic\, PBC (ANT)
+TRANSP:TRANSPARENT
+CATEGORIES:IPOs
+DESCRIPTION:Anthropic\, PBC\nExpected to price at $70.00-78.00 per share\nR
+ aising about $74B (825\,000\,000 shares)\nExchange: NASDAQ Global Select\n
+ Expected dates often move\; trading usually starts the day after pricing.
+URL:https://www.nasdaq.com/market-activity/ipos
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-keys-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:KEYS earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Keysight Technologies Inc.\nAfter the US market closes at 16:00
+  New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS fore
+ cast $3.09 (2 analyst estimates)\nSame quarter last year $1.65 (reported 1
+ 1/24/2025)\nMarket cap $52.03B\nDate can still move until the company conf
+ irms it.
+URL:https://www.nasdaq.com/market-activity/stocks/keys/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-ntes-sep-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:NTES earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:NetEase\, Inc.\nBefore the US market opens (results usually out
+  by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending Sep/2026
+ \nEPS forecast $2.40 (2 analyst estimates)\nSame quarter last year $1.88 (
+ reported 11/20/2025)\nMarket cap $77.93B\nDate can still move until the co
+ mpany confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/ntes/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-rost-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:ROST earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Ross Stores\, Inc.\nAfter the US market closes at 16:00 New Yor
+ k time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $1.
+ 82 (7 analyst estimates)\nSame quarter last year $1.58 (reported 11/20/202
+ 5)\nMarket cap $77.07B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/rost/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-wmt-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:WMT earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Walmart Inc.\nBefore the US market opens (results usually out b
+ y 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending Oct/2026\n
+ EPS forecast $0.64 (12 analyst estimates)\nSame quarter last year $0.62 (r
+ eported 11/20/2025)\nMarket cap $997.03B\nDate can still move until the co
+ mpany confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/wmt/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-hpe-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:HPE earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Hewlett Packard Enterprise Company\nAfter the US market closes 
+ at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\n
+ EPS forecast $1.17 (7 analyst estimates)\nSame quarter last year $0.54 (re
+ ported 12/04/2025)\nMarket cap $66.71B\nDate can still move until the comp
+ any confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/hpe/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-adi-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ADI earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Analog Devices\, Inc.\nBefore the US market opens (results usua
+ lly out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending O
+ ct/2026\nEPS forecast $3.89 (9 analyst estimates)\nSame quarter last year 
+ $2.26 (reported 11/25/2025)\nMarket cap $198.23B\nDate can still move unti
+ l the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/adi/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-adsk-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ADSK earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Autodesk\, Inc.\nAfter the US market closes at 16:00 New York t
+ ime (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.27 
+ (10 analyst estimates)\nSame quarter last year $1.80 (reported 11/25/2025)
+ \nMarket cap $54.34B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/adsk/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-dell-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:DELL earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Dell Technologies Inc.\nAfter the US market closes at 16:00 New
+  York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast
+  $6.41 (8 analyst estimates)\nSame quarter last year $2.35 (reported 11/25
+ /2025)\nMarket cap $237.59B\nDate can still move until the company confirm
+ s it.
+URL:https://www.nasdaq.com/market-activity/stocks/dell/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-mdt-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:MDT earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Medtronic plc\nBefore the US market opens (results usually out 
+ by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending Oct/2026\
+ nEPS forecast $1.34 (8 analyst estimates)\nSame quarter last year $1.36 (r
+ eported 11/18/2025)\nMarket cap $129.97B\nDate can still move until the co
+ mpany confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/mdt/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-de-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:DE earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Deere & Company\nBefore the US market opens (results usually ou
+ t by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending Oct/202
+ 6\nEPS forecast $4.07 (N/A analyst estimates)\nSame quarter last year $3.9
+ 3 (reported N/A)\nMarket cap $186.51B\nDate can still move until the compa
+ ny confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/de/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-395d58c3-51cf-44ef-b5bd-d35240623299@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2026\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-c6b23055-287a-4975-bcf7-026c2c6dd8e1@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, October 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, October 2026\nReleased by the Bur
+ eau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-crwd-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:CRWD earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:CrowdStrike Holdings\, Inc.\nAfter the US market closes at 16:0
+ 0 New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS for
+ ecast $0 (13 analyst estimates)\nMarket cap $234.54B\nDate can still move 
+ until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/crwd/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-mrvl-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:MRVL earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Marvell Technology\, Inc.\nAfter the US market closes at 16:00 
+ New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forec
+ ast $0.79 (12 analyst estimates)\nSame quarter last year $0.62 (reported 1
+ 2/02/2025)\nMarket cap $148.02B\nDate can still move until the company con
+ firms it.
+URL:https://www.nasdaq.com/market-activity/stocks/mrvl/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-192-2026-12-01@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261201T150000Z
+DTEND:20261201T153000Z
+SUMMARY:US JOLTS job openings
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 10:00 New York time (16:00 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=192
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-bmo-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:BMO earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Bank Of Montreal\nBefore the US market opens (results usually o
+ ut by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending Oct/20
+ 26\nEPS forecast $2.76 (2 analyst estimates)\nSame quarter last year $2.36
+  (reported 12/04/2025)\nMarket cap $120.86B\nDate can still move until the
+  company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/bmo/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-bns-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:BNS earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Bank of Nova Scotia (The)\nBefore the US market opens (results 
+ usually out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter endi
+ ng Oct/2026\nEPS forecast $1.58 (3 analyst estimates)\nSame quarter last y
+ ear $1.39 (reported 12/02/2025)\nMarket cap $114.37B\nDate can still move 
+ until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/bns/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-crm-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:CRM earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Salesforce\, Inc.\nAfter the US market closes at 16:00 New York
+  time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.4
+ 1 (13 analyst estimates)\nSame quarter last year $2.66 (reported 12/03/202
+ 5)\nMarket cap $179.42B\nDate can still move until the company confirms it
+ .
+URL:https://www.nasdaq.com/market-activity/stocks/crm/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-snow-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:SNOW earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Snowflake Inc.\nAfter the US market closes at 16:00 New York ti
+ me (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast ($0.32)
+  (11 analyst estimates)\nSame quarter last year ($0.84) (reported 12/03/20
+ 25)\nMarket cap $106.27B\nDate can still move until the company confirms i
+ t.
+URL:https://www.nasdaq.com/market-activity/stocks/snow/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-cm-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:CM earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Canadian Imperial Bank of Commerce\nBefore the US market opens 
+ (results usually out by 08:00 New York time (14:00 Amsterdam))\nFiscal qua
+ rter ending Oct/2026\nEPS forecast $1.77 (2 analyst estimates)\nSame quart
+ er last year $1.57 (reported 12/04/2025)\nMarket cap $105.79B\nDate can st
+ ill move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/cm/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-ry-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:RY earnings (before open)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Royal Bank Of Canada\nBefore the US market opens (results usual
+ ly out by 08:00 New York time (14:00 Amsterdam))\nFiscal quarter ending Oc
+ t/2026\nEPS forecast $2.97 (4 analyst estimates)\nSame quarter last year $
+ 2.76 (reported 12/03/2025)\nMarket cap $281.76B\nDate can still move until
+  the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/ry/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-td-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:TD earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Toronto Dominion Bank (The)\nTime of day not announced\nFiscal 
+ quarter ending Oct/2026\nEPS forecast $1.80 (3 analyst estimates)\nSame qu
+ arter last year $1.57 (reported 12/04/2025)\nMarket cap $202.94B\nDate can
+  still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/td/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-50-2026-12-04@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:US jobs report (nonfarm payrolls)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=50
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-azo-nov-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:AZO earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:AutoZone\, Inc.\nTime of day not announced\nFiscal quarter endi
+ ng Nov/2026\nEPS forecast $36.06 (9 analyst estimates)\nSame quarter last 
+ year $31.04 (reported 12/09/2025)\nMarket cap $52.11B\nDate can still move
+  until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/azo/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-snps-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:SNPS earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Synopsys\, Inc.\nAfter the US market closes at 16:00 New York t
+ ime (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $3.09 
+ (6 analyst estimates)\nSame quarter last year $1.90 (reported 12/10/2025)\
+ nMarket cap $88.56B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/snps/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-fcb9a791-4080-4f4b-87cf-b5f189e6d1a2@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261208T133000Z
+DTEND:20261208T140000Z
+SUMMARY:US trade balance (October 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, October 2026\n
+ Released by the Bureau of Economic Analysis at 08:30 New York time (14:30 
+ Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-adbe-nov-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:ADBE earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Adobe Inc.\nTime of day not announced\nFiscal quarter ending No
+ v/2026\nEPS forecast $5.11 (12 analyst estimates)\nSame quarter last year 
+ $4.55 (reported 12/10/2025)\nMarket cap $92.47B\nDate can still move until
+  the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/adbe/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-avgo-oct-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:AVGO earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Broadcom Inc.\nAfter the US market closes at 16:00 New York tim
+ e (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $3.45 (1
+ 0 analyst estimates)\nSame quarter last year $1.61 (reported 12/11/2025)\n
+ Market cap $1.65T\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/avgo/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-orcl-nov-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:ORCL earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Oracle Corporation\nTime of day not announced\nFiscal quarter e
+ nding Nov/2026\nEPS forecast $1.56 (10 analyst estimates)\nSame quarter la
+ st year $1.95 (reported 12/10/2025)\nMarket cap $388.19B\nDate can still m
+ ove until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/orcl/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2026-12-09@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261209T190000Z
+DTEND:20261209T203000Z
+SUMMARY:Fed rate decision + press conference (with projections)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 08 Dec to 09 Dec 2026.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.\nIncludes th
+ e Summary of Economic Projections (dot plot).
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-cost-nov-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:COST earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Costco Wholesale Corporation\nTime of day not announced\nFiscal
+  quarter ending Nov/2026\nEPS forecast $4.87 (10 analyst estimates)\nSame 
+ quarter last year $4.34 (reported 12/11/2025)\nMarket cap $481.95B\nDate c
+ an still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/cost/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-10-2026-12-10@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:US CPI inflation
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=10
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-46-2026-12-15@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+SUMMARY:US PPI (producer prices)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=46
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-mu-nov-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:MU earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Micron Technology\, Inc.\nTime of day not announced\nFiscal qua
+ rter ending Nov/2026\nEPS forecast $37.95 (8 analyst estimates)\nSame quar
+ ter last year $4.61 (reported 12/17/2025)\nMarket cap $917.92B\nDate can s
+ till move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/mu/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-9-2026-12-16@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261216T133000Z
+DTEND:20261216T140000Z
+SUMMARY:US retail sales
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=9
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-acn-nov-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:ACN earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Accenture plc\nTime of day not announced\nFiscal quarter ending
+  Nov/2026\nEPS forecast $3.90 (6 analyst estimates)\nSame quarter last yea
+ r $3.94 (reported 12/18/2025)\nMarket cap $169.63B\nDate can still move un
+ til the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/acn/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-ctas-nov-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:CTAS earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Cintas Corporation\nTime of day not announced\nFiscal quarter e
+ nding Nov/2026\nEPS forecast $1.36 (9 analyst estimates)\nSame quarter las
+ t year $1.21 (reported 12/18/2025)\nMarket cap $90.24B\nDate can still mov
+ e until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/ctas/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-nke-nov-2026@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:NKE earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Nike\, Inc.\nTime of day not announced\nFiscal quarter ending N
+ ov/2026\nEPS forecast $0.34 (12 analyst estimates)\nSame quarter last year
+  $0.53 (reported 12/18/2025)\nMarket cap $56.92B\nDate can still move unti
+ l the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/nke/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2026-12-17@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261217T131500Z
+DTEND:20261217T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-0a2682b1-41aa-4ec7-992e-07c8bfc1b92e@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 3rd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 3rd Quarter 2026\nReleased by the Bureau 
+ of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-715d281b-925d-40f9-8400-6a9096a861ec@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, November 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, November 2026\nReleased by the Bu
+ reau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2026-12-09@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261230T190000Z
+DTEND:20261230T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 09 December 2026 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-60c2963e-adbe-4467-b7b3-c55ddedcead4@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270107T133000Z
+DTEND:20270107T140000Z
+SUMMARY:US trade balance (November 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, November 2026\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-01-27@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270127T190000Z
+DTEND:20270127T203000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 26 Jan to 27 Jan 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-20dea777-8e6b-48a2-93a7-d92e7215956d@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270128T133000Z
+DTEND:20270128T140000Z
+SUMMARY:US GDP (Advance Estimate)\, 4th Quarter and Year 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 4th Quarter and Year 2026\nReleased by
+  the Bureau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-e3a6de0c-0553-47aa-a115-727090032aea@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270128T133000Z
+DTEND:20270128T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, December 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, December 2026\nReleased by the Bu
+ reau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-02-04@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270204T131500Z
+DTEND:20270204T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-0a6d54c6-da4d-402f-a2a2-9ece90f7a839@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270204T133000Z
+DTEND:20270204T140000Z
+SUMMARY:US trade balance (December and Annual 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, December and A
+ nnual 2026\nReleased by the Bureau of Economic Analysis at 08:30 New York 
+ time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-01-27@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270217T190000Z
+DTEND:20270217T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 27 January 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-6eb95591-6442-4506-9491-2e80266bad4c@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270225T133000Z
+DTEND:20270225T140000Z
+SUMMARY:US GDP (Second Estimate)\, 4th Quarter and Year 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate)\, 4th Quarter and Year 2026\nReleased by 
+ the Bureau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-bff6f863-4cbc-43e7-a895-80d020f4ea6e@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270225T133000Z
+DTEND:20270225T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, January 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, January 2027\nReleased by the Bur
+ eau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-1711e546-76e3-4559-b77a-d557f6ea2494@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270309T133000Z
+DTEND:20270309T140000Z
+SUMMARY:US trade balance (January 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, January 2027\n
+ Released by the Bureau of Economic Analysis at 08:30 New York time (14:30 
+ Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-03-17@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270317T180000Z
+DTEND:20270317T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 16 Mar to 17 Mar 2027.\nStatement at 14:00 New Yor
+ k time (19:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-03-18@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270318T131500Z
+DTEND:20270318T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a6760fe8-0263-418e-8b6a-3d7cf54782f5@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270331T123000Z
+DTEND:20270331T130000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 4th Quarter and Year 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 4th Quarter and Year 2026\nReleased by th
+ e Bureau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-863b8353-4f65-49de-86fb-b692b722fc00@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270331T123000Z
+DTEND:20270331T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, February 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, February 2027\nReleased by the Bu
+ reau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-d0dfb719-30fc-4fb0-a00f-7715422872d4@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270406T123000Z
+DTEND:20270406T130000Z
+SUMMARY:US trade balance (February 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, February 2027\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-03-17@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270407T180000Z
+DTEND:20270407T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 17 March 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-04-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270428T180000Z
+DTEND:20270428T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 27 Apr to 28 Apr 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-04-29@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270429T121500Z
+DTEND:20270429T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-f9d11bcc-b68e-4d34-8edb-db33c38fdaf0@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270429T123000Z
+DTEND:20270429T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 1st Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 1st Quarter 2027\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-320ba100-8803-41e5-ac3a-d39cd9801816@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270429T123000Z
+DTEND:20270429T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, March 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, March 2027\nReleased by the Burea
+ u of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-efcde9b3-f686-4159-9d70-0f0916b19caa@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270505T123000Z
+DTEND:20270505T130000Z
+SUMMARY:US trade balance (March 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, March 2027\nRe
+ leased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Am
+ sterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-04-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270519T180000Z
+DTEND:20270519T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 28 April 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-01d7e497-cd0d-41d2-bbc7-335f0786330f@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270527T123000Z
+DTEND:20270527T130000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 1st Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 1st Quarter 2027\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-c1fc94a3-73ce-4750-bacc-b4aff49cf020@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270527T123000Z
+DTEND:20270527T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, April 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, April 2027\nReleased by the Burea
+ u of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-cbf759f7-1508-4d55-bc3b-8d6d75b70784@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270609T123000Z
+DTEND:20270609T130000Z
+SUMMARY:US trade balance (April 2027 and Annual Update)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, April 2027 and
+  Annual Update\nReleased by the Bureau of Economic Analysis at 08:30 New Y
+ ork time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-06-09@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270609T180000Z
+DTEND:20270609T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 08 Jun to 09 Jun 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-06-10@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270610T121500Z
+DTEND:20270610T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-aca3a331-4976-4a54-b069-480113397e94@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270625T123000Z
+DTEND:20270625T130000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 1st Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 1st Quarter 2027\nReleased by the Bureau 
+ of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a2a45f23-7b9e-4690-bacf-90af55d117d6@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270625T123000Z
+DTEND:20270625T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, May 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, May 2027\nReleased by the Bureau 
+ of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-06-09@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270630T180000Z
+DTEND:20270630T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 09 June 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-7eb5a133-99ce-461a-9994-7547e5531f80@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270707T123000Z
+DTEND:20270707T130000Z
+SUMMARY:US trade balance (May 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, May 2027\nRele
+ ased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Amst
+ erdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-07-22@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270722T121500Z
+DTEND:20270722T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-07-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270728T180000Z
+DTEND:20270728T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 27 Jul to 28 Jul 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-cad15f9d-0eef-4991-b947-25e82546b968@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270729T123000Z
+DTEND:20270729T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 2nd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 2nd Quarter 2027\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-5ed58ba0-7c57-4497-bd14-29f09f9edd08@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270729T123000Z
+DTEND:20270729T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, June 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, June 2027\nReleased by the Bureau
+  of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-daaadad0-f494-44d1-9c06-46daf2f54815@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270805T123000Z
+DTEND:20270805T130000Z
+SUMMARY:US trade balance (June 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, June 2027\nRel
+ eased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Ams
+ terdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-07-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270818T180000Z
+DTEND:20270818T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 28 July 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a6962ba5-911b-4f90-8414-e22f2f93a791@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270825T123000Z
+DTEND:20270825T130000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2027\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-0b604b28-45cd-4ca0-8a28-68a3a84299a1@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270825T123000Z
+DTEND:20270825T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, July 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, July 2027\nReleased by the Bureau
+  of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-57b96183-dec3-4c2a-8f77-89272f43e507@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270908T123000Z
+DTEND:20270908T130000Z
+SUMMARY:US trade balance (July 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, July 2027\nRel
+ eased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Ams
+ terdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-09-09@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270909T121500Z
+DTEND:20270909T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-09-15@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270915T180000Z
+DTEND:20270915T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 14 Sep to 15 Sep 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-76c24480-3cb7-40e4-a824-f2b0f17d869f@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270930T123000Z
+DTEND:20270930T130000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 2nd Quarter 2027\; State Consumer Spending
+ \, 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 2nd Quarter 2027\; State Consumer Spendin
+ g\, 2026\nReleased by the Bureau of Economic Analysis at 08:30 New York ti
+ me (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-feb54afd-8e52-4e48-8337-ed9a69bd860b@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270930T123000Z
+DTEND:20270930T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, August 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, August 2027\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-af2225e2-eba3-4dbf-91bd-e3ea91349860@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271006T123000Z
+DTEND:20271006T130000Z
+SUMMARY:US trade balance (August 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, August 2027\nR
+ eleased by the Bureau of Economic Analysis at 08:30 New York time (14:30 A
+ msterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-09-15@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271006T180000Z
+DTEND:20271006T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 15 September 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-10-27@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271027T180000Z
+DTEND:20271027T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 26 Oct to 27 Oct 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-10-28@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271028T121500Z
+DTEND:20271028T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-2683f864-4dad-461e-a25b-d18efa785bd5@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271028T123000Z
+DTEND:20271028T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 3rd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 3rd Quarter 2027\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-76076163-d922-44ce-ab1a-0de5727afacd@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271028T123000Z
+DTEND:20271028T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, September 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, September 2027\nReleased by the B
+ ureau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a7b51754-f4c8-46d5-9418-1cc67285cad6@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271104T123000Z
+DTEND:20271104T130000Z
+SUMMARY:US trade balance (September 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, September 2027
+ \nReleased by the Bureau of Economic Analysis at 08:30 New York time (13:3
+ 0 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-10-27@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271117T190000Z
+DTEND:20271117T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 27 October 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-11-17@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271117T190000Z
+DTEND:20271117T203000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 16 Nov to 17 Nov 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-5ca13f21-a57e-4b30-9e8c-52c16151dce3@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271124T133000Z
+DTEND:20271124T140000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2027\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-9fab5eb4-935e-4191-af97-50287c1380c4@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271124T133000Z
+DTEND:20271124T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, October 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, October 2027\nReleased by the Bur
+ eau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-39b4f454-2f03-4968-a2b8-303067798496@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271207T133000Z
+DTEND:20271207T140000Z
+SUMMARY:US trade balance (October 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, October 2027\n
+ Released by the Bureau of Economic Analysis at 08:30 New York time (14:30 
+ Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-11-17@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271208T190000Z
+DTEND:20271208T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 17 November 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-12-16@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271216T131500Z
+DTEND:20271216T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-fbd98f64-7afe-4b40-ae27-ea3fc77c1853@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271222T133000Z
+DTEND:20271222T140000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 3rd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 3rd Quarter 2027\nReleased by the Bureau 
+ of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-6c4e2eb6-96ac-464c-b525-f74503f2d66d@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271222T133000Z
+DTEND:20271222T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, November 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, November 2027\nReleased by the Bu
+ reau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-02-03@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280203T131500Z
+DTEND:20280203T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-03-23@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280323T131500Z
+DTEND:20280323T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-05-04@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280504T121500Z
+DTEND:20280504T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-06-08@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280608T121500Z
+DTEND:20280608T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-07-20@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280720T121500Z
+DTEND:20280720T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-09-07@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280907T121500Z
+DTEND:20280907T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-10-12@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20281012T121500Z
+DTEND:20281012T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-12-07@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20281207T131500Z
+DTEND:20281207T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,20 @@
+{
+  "earnings": {
+    "min_market_cap_usd": 50000000000,
+    "always_include": [],
+    "days_back": 7,
+    "days_ahead": 60
+  },
+  "ipos": {
+    "min_offer_usd": 100000000
+  },
+  "us_data_fred": {
+    "10": "US CPI inflation",
+    "50": "US jobs report (nonfarm payrolls)",
+    "46": "US PPI (producer prices)",
+    "9": "US retail sales",
+    "192": "US JOLTS job openings"
+  },
+  "history_days": 120,
+  "home_timezone": "Europe/Amsterdam"
+}

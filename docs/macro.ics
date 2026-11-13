@@ -1,0 +1,1267 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//market-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fed\, ECB & US data
+X-WR-CALDESC:Fed and ECB rate decisions\, FOMC minutes and major US economi
+ c releases.
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:fomc-2026-07-29@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20260729T180000Z
+DTEND:20260729T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 28 Jul to 29 Jul 2026.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-2989d2ad-202c-48c8-ab87-51eafc234f96@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 2nd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 2nd Quarter 2026\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-1c1f3485-7bdc-4174-adfa-d23ee238d78a@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260730T123000Z
+DTEND:20260730T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, June 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, June 2026\nReleased by the Bureau
+  of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-ec627fed-777d-4cfa-b128-063926c3058e@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260804T123000Z
+DTEND:20260804T130000Z
+SUMMARY:US trade balance (June 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, June 2026\nRel
+ eased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Ams
+ terdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2026-07-29@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20260819T180000Z
+DTEND:20260819T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 29 July 2026 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-84d38d69-e462-4dc2-8f9b-636779fcced5@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2026\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-b279abe1-573d-4a3d-97c5-a2823b52054c@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260826T123000Z
+DTEND:20260826T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, July 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, July 2026\nReleased by the Bureau
+  of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-1ef7db54-9b66-40b0-9518-932b3fb76e11@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260903T123000Z
+DTEND:20260903T130000Z
+SUMMARY:US trade balance (July 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, July 2026\nRel
+ eased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Ams
+ terdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2026-09-16@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20260916T180000Z
+DTEND:20260916T193000Z
+SUMMARY:Fed rate decision + press conference (with projections)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 15 Sep to 16 Sep 2026.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.\nIncludes th
+ e Summary of Economic Projections (dot plot).
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-1e85b6fb-a00d-4e0e-85dc-b2bde99e580f@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 2nd Quarter 2026\; State PCE\, 2025
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 2nd Quarter 2026\; State PCE\, 2025\nRele
+ ased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Amst
+ erdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-e28caae2-24c3-4772-8b33-e2334573db41@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20260930T123000Z
+DTEND:20260930T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, August 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, August 2026\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-e5470114-6282-4e32-894d-61734b5e353e@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261006T123000Z
+DTEND:20261006T130000Z
+SUMMARY:US trade balance (August 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, August 2026\nR
+ eleased by the Bureau of Economic Analysis at 08:30 New York time (14:30 A
+ msterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2026-09-16@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261007T180000Z
+DTEND:20261007T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 16 September 2026 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2026-10-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261028T180000Z
+DTEND:20261028T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 27 Oct to 28 Oct 2026.\nStatement at 14:00 New Yor
+ k time (19:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-afcb09fd-b564-4125-88aa-a0b23b358a6f@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 3rd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 3rd Quarter 2026\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (13:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-ff8bd8ad-bb92-43c5-8a30-7e7b5baa33c2@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261029T123000Z
+DTEND:20261029T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, September 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, September 2026\nReleased by the B
+ ureau of Economic Analysis at 08:30 New York time (13:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a270c9cd-70a1-48d2-8924-cdebab79dc9a@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261104T133000Z
+DTEND:20261104T140000Z
+SUMMARY:US trade balance (September 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, September 2026
+ \nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:3
+ 0 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-46-2026-11-13@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261113T133000Z
+DTEND:20261113T140000Z
+SUMMARY:US PPI (producer prices)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=46
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-9-2026-11-17@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261117T133000Z
+DTEND:20261117T140000Z
+SUMMARY:US retail sales
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=9
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2026-10-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261118T190000Z
+DTEND:20261118T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 28 October 2026 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-395d58c3-51cf-44ef-b5bd-d35240623299@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2026\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-c6b23055-287a-4975-bcf7-026c2c6dd8e1@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261125T133000Z
+DTEND:20261125T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, October 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, October 2026\nReleased by the Bur
+ eau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-192-2026-12-01@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261201T150000Z
+DTEND:20261201T153000Z
+SUMMARY:US JOLTS job openings
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 10:00 New York time (16:00 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=192
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-50-2026-12-04@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261204T133000Z
+DTEND:20261204T140000Z
+SUMMARY:US jobs report (nonfarm payrolls)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=50
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-fcb9a791-4080-4f4b-87cf-b5f189e6d1a2@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261208T133000Z
+DTEND:20261208T140000Z
+SUMMARY:US trade balance (October 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, October 2026\n
+ Released by the Bureau of Economic Analysis at 08:30 New York time (14:30 
+ Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2026-12-09@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261209T190000Z
+DTEND:20261209T203000Z
+SUMMARY:Fed rate decision + press conference (with projections)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 08 Dec to 09 Dec 2026.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.\nIncludes th
+ e Summary of Economic Projections (dot plot).
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-10-2026-12-10@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261210T133000Z
+DTEND:20261210T140000Z
+SUMMARY:US CPI inflation
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=10
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-46-2026-12-15@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261215T133000Z
+DTEND:20261215T140000Z
+SUMMARY:US PPI (producer prices)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=46
+END:VEVENT
+BEGIN:VEVENT
+UID:fred-9-2026-12-16@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261216T133000Z
+DTEND:20261216T140000Z
+SUMMARY:US retail sales
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Scheduled release at 08:30 New York time (14:30 Amsterdam).\nOn
+ ly the next release date is known ahead.
+URL:https://fred.stlouisfed.org/releases/calendar?rid=9
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2026-12-17@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261217T131500Z
+DTEND:20261217T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-0a2682b1-41aa-4ec7-992e-07c8bfc1b92e@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 3rd Quarter 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 3rd Quarter 2026\nReleased by the Bureau 
+ of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-715d281b-925d-40f9-8400-6a9096a861ec@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20261223T133000Z
+DTEND:20261223T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, November 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, November 2026\nReleased by the Bu
+ reau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2026-12-09@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20261230T190000Z
+DTEND:20261230T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 09 December 2026 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-60c2963e-adbe-4467-b7b3-c55ddedcead4@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270107T133000Z
+DTEND:20270107T140000Z
+SUMMARY:US trade balance (November 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, November 2026\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-01-27@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270127T190000Z
+DTEND:20270127T203000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 26 Jan to 27 Jan 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-20dea777-8e6b-48a2-93a7-d92e7215956d@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270128T133000Z
+DTEND:20270128T140000Z
+SUMMARY:US GDP (Advance Estimate)\, 4th Quarter and Year 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 4th Quarter and Year 2026\nReleased by
+  the Bureau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-e3a6de0c-0553-47aa-a115-727090032aea@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270128T133000Z
+DTEND:20270128T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, December 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, December 2026\nReleased by the Bu
+ reau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-02-04@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270204T131500Z
+DTEND:20270204T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-0a6d54c6-da4d-402f-a2a2-9ece90f7a839@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270204T133000Z
+DTEND:20270204T140000Z
+SUMMARY:US trade balance (December and Annual 2026)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, December and A
+ nnual 2026\nReleased by the Bureau of Economic Analysis at 08:30 New York 
+ time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-01-27@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270217T190000Z
+DTEND:20270217T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 27 January 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-6eb95591-6442-4506-9491-2e80266bad4c@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270225T133000Z
+DTEND:20270225T140000Z
+SUMMARY:US GDP (Second Estimate)\, 4th Quarter and Year 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate)\, 4th Quarter and Year 2026\nReleased by 
+ the Bureau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-bff6f863-4cbc-43e7-a895-80d020f4ea6e@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270225T133000Z
+DTEND:20270225T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, January 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, January 2027\nReleased by the Bur
+ eau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-1711e546-76e3-4559-b77a-d557f6ea2494@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270309T133000Z
+DTEND:20270309T140000Z
+SUMMARY:US trade balance (January 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, January 2027\n
+ Released by the Bureau of Economic Analysis at 08:30 New York time (14:30 
+ Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-03-17@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270317T180000Z
+DTEND:20270317T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 16 Mar to 17 Mar 2027.\nStatement at 14:00 New Yor
+ k time (19:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-03-18@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270318T131500Z
+DTEND:20270318T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a6760fe8-0263-418e-8b6a-3d7cf54782f5@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270331T123000Z
+DTEND:20270331T130000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 4th Quarter and Year 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 4th Quarter and Year 2026\nReleased by th
+ e Bureau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-863b8353-4f65-49de-86fb-b692b722fc00@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270331T123000Z
+DTEND:20270331T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, February 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, February 2027\nReleased by the Bu
+ reau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-d0dfb719-30fc-4fb0-a00f-7715422872d4@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270406T123000Z
+DTEND:20270406T130000Z
+SUMMARY:US trade balance (February 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, February 2027\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-03-17@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270407T180000Z
+DTEND:20270407T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 17 March 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-04-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270428T180000Z
+DTEND:20270428T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 27 Apr to 28 Apr 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-04-29@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270429T121500Z
+DTEND:20270429T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-f9d11bcc-b68e-4d34-8edb-db33c38fdaf0@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270429T123000Z
+DTEND:20270429T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 1st Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 1st Quarter 2027\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-320ba100-8803-41e5-ac3a-d39cd9801816@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270429T123000Z
+DTEND:20270429T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, March 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, March 2027\nReleased by the Burea
+ u of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-efcde9b3-f686-4159-9d70-0f0916b19caa@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270505T123000Z
+DTEND:20270505T130000Z
+SUMMARY:US trade balance (March 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, March 2027\nRe
+ leased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Am
+ sterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-04-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270519T180000Z
+DTEND:20270519T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 28 April 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-01d7e497-cd0d-41d2-bbc7-335f0786330f@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270527T123000Z
+DTEND:20270527T130000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 1st Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 1st Quarter 2027\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-c1fc94a3-73ce-4750-bacc-b4aff49cf020@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270527T123000Z
+DTEND:20270527T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, April 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, April 2027\nReleased by the Burea
+ u of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-cbf759f7-1508-4d55-bc3b-8d6d75b70784@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270609T123000Z
+DTEND:20270609T130000Z
+SUMMARY:US trade balance (April 2027 and Annual Update)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, April 2027 and
+  Annual Update\nReleased by the Bureau of Economic Analysis at 08:30 New Y
+ ork time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-06-09@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270609T180000Z
+DTEND:20270609T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 08 Jun to 09 Jun 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-06-10@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270610T121500Z
+DTEND:20270610T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-aca3a331-4976-4a54-b069-480113397e94@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270625T123000Z
+DTEND:20270625T130000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 1st Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 1st Quarter 2027\nReleased by the Bureau 
+ of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a2a45f23-7b9e-4690-bacf-90af55d117d6@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270625T123000Z
+DTEND:20270625T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, May 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, May 2027\nReleased by the Bureau 
+ of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-06-09@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270630T180000Z
+DTEND:20270630T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 09 June 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-7eb5a133-99ce-461a-9994-7547e5531f80@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270707T123000Z
+DTEND:20270707T130000Z
+SUMMARY:US trade balance (May 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, May 2027\nRele
+ ased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Amst
+ erdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-07-22@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270722T121500Z
+DTEND:20270722T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-07-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270728T180000Z
+DTEND:20270728T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 27 Jul to 28 Jul 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-cad15f9d-0eef-4991-b947-25e82546b968@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270729T123000Z
+DTEND:20270729T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 2nd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 2nd Quarter 2027\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-5ed58ba0-7c57-4497-bd14-29f09f9edd08@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270729T123000Z
+DTEND:20270729T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, June 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, June 2027\nReleased by the Bureau
+  of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-daaadad0-f494-44d1-9c06-46daf2f54815@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270805T123000Z
+DTEND:20270805T130000Z
+SUMMARY:US trade balance (June 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, June 2027\nRel
+ eased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Ams
+ terdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-07-28@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270818T180000Z
+DTEND:20270818T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 28 July 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a6962ba5-911b-4f90-8414-e22f2f93a791@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270825T123000Z
+DTEND:20270825T130000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 2nd Quarter 2027\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-0b604b28-45cd-4ca0-8a28-68a3a84299a1@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270825T123000Z
+DTEND:20270825T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, July 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, July 2027\nReleased by the Bureau
+  of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-57b96183-dec3-4c2a-8f77-89272f43e507@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270908T123000Z
+DTEND:20270908T130000Z
+SUMMARY:US trade balance (July 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, July 2027\nRel
+ eased by the Bureau of Economic Analysis at 08:30 New York time (14:30 Ams
+ terdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-09-09@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270909T121500Z
+DTEND:20270909T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-09-15@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20270915T180000Z
+DTEND:20270915T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 14 Sep to 15 Sep 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-76c24480-3cb7-40e4-a824-f2b0f17d869f@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270930T123000Z
+DTEND:20270930T130000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 2nd Quarter 2027\; State Consumer Spending
+ \, 2026
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 2nd Quarter 2027\; State Consumer Spendin
+ g\, 2026\nReleased by the Bureau of Economic Analysis at 08:30 New York ti
+ me (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-feb54afd-8e52-4e48-8337-ed9a69bd860b@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20270930T123000Z
+DTEND:20270930T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, August 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, August 2027\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-af2225e2-eba3-4dbf-91bd-e3ea91349860@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271006T123000Z
+DTEND:20271006T130000Z
+SUMMARY:US trade balance (August 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, August 2027\nR
+ eleased by the Bureau of Economic Analysis at 08:30 New York time (14:30 A
+ msterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-09-15@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271006T180000Z
+DTEND:20271006T183000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 15 September 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-10-27@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271027T180000Z
+DTEND:20271027T193000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 26 Oct to 27 Oct 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-10-28@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271028T121500Z
+DTEND:20271028T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-2683f864-4dad-461e-a25b-d18efa785bd5@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271028T123000Z
+DTEND:20271028T130000Z
+SUMMARY:US GDP (Advance Estimate)\, 3rd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Advance Estimate)\, 3rd Quarter 2027\nReleased by the Bure
+ au of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-76076163-d922-44ce-ab1a-0de5727afacd@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271028T123000Z
+DTEND:20271028T130000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, September 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, September 2027\nReleased by the B
+ ureau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-a7b51754-f4c8-46d5-9418-1cc67285cad6@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271104T123000Z
+DTEND:20271104T130000Z
+SUMMARY:US trade balance (September 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, September 2027
+ \nReleased by the Bureau of Economic Analysis at 08:30 New York time (13:3
+ 0 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-10-27@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271117T190000Z
+DTEND:20271117T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 27 October 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-2027-11-17@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271117T190000Z
+DTEND:20271117T203000Z
+SUMMARY:Fed rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:FOMC meeting 16 Nov to 17 Nov 2027.\nStatement at 14:00 New Yor
+ k time (20:00 Amsterdam)\, press conference 30 minutes later.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-5ca13f21-a57e-4b30-9e8c-52c16151dce3@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271124T133000Z
+DTEND:20271124T140000Z
+SUMMARY:US GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Second Estimate) and Corporate Profits\, 3rd Quarter 2027\
+ nReleased by the Bureau of Economic Analysis at 08:30 New York time (14:30
+  Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-9fab5eb4-935e-4191-af97-50287c1380c4@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271124T133000Z
+DTEND:20271124T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, October 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, October 2027\nReleased by the Bur
+ eau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-39b4f454-2f03-4968-a2b8-303067798496@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271207T133000Z
+DTEND:20271207T140000Z
+SUMMARY:US trade balance (October 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:U.S. International Trade in Goods and Services\, October 2027\n
+ Released by the Bureau of Economic Analysis at 08:30 New York time (14:30 
+ Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:fomc-minutes-2027-11-17@market-calendar
+DTSTAMP:20261113T105333Z
+DTSTART:20271208T190000Z
+DTEND:20271208T193000Z
+SUMMARY:FOMC minutes
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Minutes of the 17 November 2027 Fed meeting.
+URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2027-12-16@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271216T131500Z
+DTEND:20271216T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-fbd98f64-7afe-4b40-ae27-ea3fc77c1853@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271222T133000Z
+DTEND:20271222T140000Z
+SUMMARY:US GDP (Third Estimate)\, Industries\, Corporate Profits\, State GD
+ P\, and State Personal Income\, 3rd Quarter 2027
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:GDP (Third Estimate)\, Industries\, Corporate Profits\, State G
+ DP\, and State Personal Income\, 3rd Quarter 2027\nReleased by the Bureau 
+ of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:bea-6c4e2eb6-96ac-464c-b525-f74503f2d66d@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20271222T133000Z
+DTEND:20271222T140000Z
+SUMMARY:US PCE inflation (Personal Income and Outlays\, November 2027)
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Personal Income and Outlays\, November 2027\nReleased by the Bu
+ reau of Economic Analysis at 08:30 New York time (14:30 Amsterdam).
+URL:https://www.bea.gov/news/schedule
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-02-03@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280203T131500Z
+DTEND:20280203T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-03-23@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280323T131500Z
+DTEND:20280323T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-05-04@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280504T121500Z
+DTEND:20280504T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-06-08@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280608T121500Z
+DTEND:20280608T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-07-20@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280720T121500Z
+DTEND:20280720T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-09-07@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20280907T121500Z
+DTEND:20280907T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-10-12@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20281012T121500Z
+DTEND:20281012T134500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb-2028-12-07@market-calendar
+DTSTAMP:20261113T105304Z
+DTSTART:20281207T131500Z
+DTEND:20281207T144500Z
+SUMMARY:ECB rate decision + press conference
+TRANSP:TRANSPARENT
+CATEGORIES:Fed\, ECB & US data
+DESCRIPTION:Decision at 14:15 Frankfurt time\, press conference at 14:45.\n
+ Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2)
+ \, followed by press conference
+URL:https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+END:VEVENT
+END:VCALENDAR
