@@ -1212,10 +1212,10 @@
   "start": "20261113",
   "end": "20261114",
   "summary": "MFG earnings (before open)",
-  "description": "Mizuho Financial Group, Inc.\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nSame quarter last year $0.20 (reported 11/14/2025)\nMarket cap $126B\nDate can still move until the company confirms it.",
+  "description": "Mizuho Financial Group, Inc.\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nMarket cap $126B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/mfg/earnings",
-  "hash": "9fb771cd915206f7306a2fcb1f7a7747d3899cb6",
-  "stamp": "20261113T105742Z"
+  "hash": "04e0bc85bc951ec50f37272e578bee3f9b826bc1",
+  "stamp": "20261114T112907Z"
  },
  "earnings-mrna-sep-2026@market-calendar": {
   "uid": "earnings-mrna-sep-2026@market-calendar",
@@ -1268,10 +1268,10 @@
   "start": "20261113",
   "end": "20261114",
   "summary": "MUFG earnings",
-  "description": "Mitsubishi UFJ Financial Group Inc\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.45 (1 analyst estimates)\nSame quarter last year $0.44 (reported 11/14/2025)\nMarket cap $258B\nDate can still move until the company confirms it.",
+  "description": "Mitsubishi UFJ Financial Group Inc\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.45 (1 analyst estimates)\nMarket cap $258B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/mufg/earnings",
-  "hash": "fe673b61c67061eb94b84db864dba485b0e430a9",
-  "stamp": "20261113T215922Z"
+  "hash": "54eb782efd86036570ae193bc132df1e0f610e5c",
+  "stamp": "20261114T112907Z"
  },
  "earnings-nke-nov-2026@market-calendar": {
   "uid": "earnings-nke-nov-2026@market-calendar",
@@ -1450,10 +1450,10 @@
   "start": "20261113",
   "end": "20261114",
   "summary": "SMFG earnings (before open)",
-  "description": "Sumitomo Mitsui Financial Group Inc\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\nSame quarter last year $0.59 (reported 11/14/2025)\nMarket cap $156B\nDate can still move until the company confirms it.",
+  "description": "Sumitomo Mitsui Financial Group Inc\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\nMarket cap $156B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/smfg/earnings",
-  "hash": "2c8c92688a0b3cbf4742ef92a5c7b8bcb1dba303",
-  "stamp": "20261113T215922Z"
+  "hash": "0a397ec64859fcb01df077132e67765160ce1a57",
+  "stamp": "20261114T112907Z"
  },
  "earnings-snow-oct-2026@market-calendar": {
   "uid": "earnings-snow-oct-2026@market-calendar",

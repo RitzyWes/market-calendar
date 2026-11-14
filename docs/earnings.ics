@@ -205,7 +205,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/nu/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-mfg-sep-2026@market-calendar
-DTSTAMP:20261113T105742Z
+DTSTAMP:20261114T112907Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:MFG earnings (before open)
@@ -213,14 +213,13 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Mizuho Financial Group\, Inc.\nBefore the US market opens\; res
  ults usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter 
- ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nSame quarter la
- st year $0.20 (reported 11/14/2025)\nMarket cap $126B\nDate can still move
-  until the company confirms it.
+ ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nMarket cap $126
+ B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/mfg/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-mufg-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261114T112907Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:MUFG earnings
@@ -228,13 +227,12 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Mitsubishi UFJ Financial Group Inc\nTime of day not announced\n
  Fiscal quarter ending Sep/2026\nEPS forecast $0.45 (1 analyst estimates)\n
- Same quarter last year $0.44 (reported 11/14/2025)\nMarket cap $258B\nDate
-  can still move until the company confirms it.
+ Market cap $258B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/mufg/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-smfg-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261114T112907Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:SMFG earnings (before open)
@@ -242,9 +240,8 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Sumitomo Mitsui Financial Group Inc\nBefore the US market opens
  \; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal qu
- arter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\nSame quar
- ter last year $0.59 (reported 11/14/2025)\nMarket cap $156B\nDate can stil
- l move until the company confirms it.
+ arter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\nMarket ca
+ p $156B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/smfg/earnings
 END:VEVENT
 BEGIN:VEVENT
