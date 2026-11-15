@@ -1211,11 +1211,11 @@
   "day": "2026-11-13",
   "start": "20261113",
   "end": "20261114",
-  "summary": "MFG earnings (before open)",
-  "description": "Mizuho Financial Group, Inc.\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nMarket cap $126B\nDate can still move until the company confirms it.",
+  "summary": "MFG earnings",
+  "description": "Mizuho Financial Group, Inc.\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nMarket cap $126B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/mfg/earnings",
-  "hash": "04e0bc85bc951ec50f37272e578bee3f9b826bc1",
-  "stamp": "20261114T112907Z"
+  "hash": "1a1f2a3f1b8a2dfe19bff1c155bedcc41156917b",
+  "stamp": "20261115T115734Z"
  },
  "earnings-mrna-sep-2026@market-calendar": {
   "uid": "earnings-mrna-sep-2026@market-calendar",
@@ -1449,11 +1449,11 @@
   "day": "2026-11-13",
   "start": "20261113",
   "end": "20261114",
-  "summary": "SMFG earnings (before open)",
-  "description": "Sumitomo Mitsui Financial Group Inc\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\nMarket cap $156B\nDate can still move until the company confirms it.",
+  "summary": "SMFG earnings",
+  "description": "Sumitomo Mitsui Financial Group Inc\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\nMarket cap $156B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/smfg/earnings",
-  "hash": "0a397ec64859fcb01df077132e67765160ce1a57",
-  "stamp": "20261114T112907Z"
+  "hash": "d8d5a7fe8b3d89b4feaf4e5489aaf9e654bdc06d",
+  "stamp": "20261115T115734Z"
  },
  "earnings-snow-oct-2026@market-calendar": {
   "uid": "earnings-snow-oct-2026@market-calendar",

@@ -205,16 +205,15 @@ URL:https://www.nasdaq.com/market-activity/stocks/nu/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-mfg-sep-2026@market-calendar
-DTSTAMP:20261114T112907Z
+DTSTAMP:20261115T115734Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:MFG earnings (before open)
+SUMMARY:MFG earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
-DESCRIPTION:Mizuho Financial Group\, Inc.\nBefore the US market opens\; res
- ults usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter 
- ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nMarket cap $126
- B\nDate can still move until the company confirms it.
+DESCRIPTION:Mizuho Financial Group\, Inc.\nTime of day not announced\nFisca
+ l quarter ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nMarke
+ t cap $126B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/mfg/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -232,16 +231,15 @@ URL:https://www.nasdaq.com/market-activity/stocks/mufg/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-smfg-sep-2026@market-calendar
-DTSTAMP:20261114T112907Z
+DTSTAMP:20261115T115734Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
-SUMMARY:SMFG earnings (before open)
+SUMMARY:SMFG earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
-DESCRIPTION:Sumitomo Mitsui Financial Group Inc\nBefore the US market opens
- \; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal qu
- arter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\nMarket ca
- p $156B\nDate can still move until the company confirms it.
+DESCRIPTION:Sumitomo Mitsui Financial Group Inc\nTime of day not announced\
+ nFiscal quarter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\
+ nMarket cap $156B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/smfg/earnings
 END:VEVENT
 BEGIN:VEVENT
