@@ -749,11 +749,11 @@
   "day": "2026-12-17",
   "start": "20261217",
   "end": "20261218",
-  "summary": "ACN earnings",
-  "description": "Accenture plc\nTime of day not announced\nFiscal quarter ending Nov/2026\nEPS forecast $3.90 (6 analyst estimates)\nSame quarter last year $3.94 (reported 12/18/2025)\nMarket cap $167B\nDate can still move until the company confirms it.",
+  "summary": "ACN earnings (before open)",
+  "description": "Accenture plc\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS forecast $3.90 (6 analyst estimates)\nSame quarter last year $3.94 (reported 12/18/2025)\nMarket cap $167B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/acn/earnings",
-  "hash": "bfc602a1936439b8a02e1b06b5b7cdcb6a4d9e97",
-  "stamp": "20261113T215922Z"
+  "hash": "b70c43031d53abdc9017c09d6934b62e6f1fc921",
+  "stamp": "20261116T124639Z"
  },
  "earnings-adbe-nov-2026@market-calendar": {
   "uid": "earnings-adbe-nov-2026@market-calendar",
@@ -806,10 +806,10 @@
   "start": "20261112",
   "end": "20261113",
   "summary": "AMAT earnings",
-  "description": "Applied Materials, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $4.06 (10 analyst estimates)\nMarket cap $302B\nDate can still move until the company confirms it.",
+  "description": "Applied Materials, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $4.06 (10 analyst estimates)\nMarket cap $294B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/amat/earnings",
-  "hash": "b8ab6703cb6ad944f6e798a457838982295f43ad",
-  "stamp": "20261113T215922Z"
+  "hash": "d091026f2f01a6b3a2fbd10b02cb80e0ba8cca2f",
+  "stamp": "20261116T124639Z"
  },
  "earnings-avgo-oct-2026@market-calendar": {
   "uid": "earnings-avgo-oct-2026@market-calendar",
@@ -848,10 +848,10 @@
   "start": "20261109",
   "end": "20261110",
   "summary": "B earnings",
-  "description": "Barrick Mining Corporation\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.74 (5 analyst estimates)\nMarket cap $62B\nDate can still move until the company confirms it.",
+  "description": "Barrick Mining Corporation\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.74 (5 analyst estimates)\nMarket cap $61B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/b/earnings",
-  "hash": "0cc475347af4006a9c8f7488891bf237412236fa",
-  "stamp": "20261113T215922Z"
+  "hash": "8f85e524812e3261e935e436496f081d6a12e08b",
+  "stamp": "20261116T124639Z"
  },
  "earnings-baba-sep-2026@market-calendar": {
   "uid": "earnings-baba-sep-2026@market-calendar",
@@ -918,10 +918,10 @@
   "start": "20261112",
   "end": "20261113",
   "summary": "BN earnings",
-  "description": "Brookfield Corporation\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.72 (3 analyst estimates)\nMarket cap $102B\nDate can still move until the company confirms it.",
+  "description": "Brookfield Corporation\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.72 (3 analyst estimates)\nMarket cap $100B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/bn/earnings",
-  "hash": "3420d2dc9a2e1dca678ebade32931861675b3f61",
-  "stamp": "20261113T215922Z"
+  "hash": "ffedd84b13588bb417ca4f17a90ab6541b947254",
+  "stamp": "20261116T124639Z"
  },
  "earnings-bns-oct-2026@market-calendar": {
   "uid": "earnings-bns-oct-2026@market-calendar",
@@ -973,11 +973,11 @@
   "day": "2026-12-10",
   "start": "20261210",
   "end": "20261211",
-  "summary": "COST earnings",
-  "description": "Costco Wholesale Corporation\nTime of day not announced\nFiscal quarter ending Nov/2026\nEPS forecast $4.87 (10 analyst estimates)\nSame quarter last year $4.34 (reported 12/11/2025)\nMarket cap $484B\nDate can still move until the company confirms it.",
+  "summary": "COST earnings (after close)",
+  "description": "Costco Wholesale Corporation\nAfter the US market closes at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS forecast $4.87 (10 analyst estimates)\nSame quarter last year $4.34 (reported 12/11/2025)\nMarket cap $484B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/cost/earnings",
-  "hash": "fd7c64a4765fd7ca1b26b8aaef3a45ce2463ee71",
-  "stamp": "20261113T215922Z"
+  "hash": "4f244f9c7feea5f269187436c1f66925022c20d9",
+  "stamp": "20261116T124639Z"
  },
  "earnings-crm-oct-2026@market-calendar": {
   "uid": "earnings-crm-oct-2026@market-calendar",
@@ -1002,10 +1002,10 @@
   "start": "20261201",
   "end": "20261202",
   "summary": "CRWD earnings (after close)",
-  "description": "CrowdStrike Holdings, Inc.\nAfter the US market closes at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $0 (13 analyst estimates)\nMarket cap $235B\nDate can still move until the company confirms it.",
+  "description": "CrowdStrike Holdings, Inc.\nAfter the US market closes at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $0 (13 analyst estimates)\nMarket cap $232B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/crwd/earnings",
-  "hash": "41247929c12303218c21665d8aca8e1858386d46",
-  "stamp": "20261113T105742Z"
+  "hash": "c5353cb29c0b12541faa29890e7d691377992df0",
+  "stamp": "20261116T124639Z"
  },
  "earnings-csco-oct-2026@market-calendar": {
   "uid": "earnings-csco-oct-2026@market-calendar",
@@ -1016,10 +1016,10 @@
   "start": "20261112",
   "end": "20261113",
   "summary": "CSCO earnings",
-  "description": "Cisco Systems, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $1.15 (8 analyst estimates)\nMarket cap $402B\nDate can still move until the company confirms it.",
+  "description": "Cisco Systems, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $1.15 (8 analyst estimates)\nMarket cap $377B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/csco/earnings",
-  "hash": "2e994c38810e9f029405fa9ba3ea2f8f45fd980e",
-  "stamp": "20261113T215922Z"
+  "hash": "639f7c0af8f6387a30fa8af5587ce5e1d23ec392",
+  "stamp": "20261116T124639Z"
  },
  "earnings-ctas-nov-2026@market-calendar": {
   "uid": "earnings-ctas-nov-2026@market-calendar",
@@ -1044,10 +1044,10 @@
   "start": "20261125",
   "end": "20261126",
   "summary": "DE earnings (before open)",
-  "description": "Deere & Company\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $4.07 (1 analyst estimates)\nSame quarter last year $3.93 (reported N/A)\nMarket cap $183B\nDate can still move until the company confirms it.",
+  "description": "Deere & Company\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $4.07 (1 analyst estimates)\nSame quarter last year $3.93 (reported N/A)\nMarket cap $182B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/de/earnings",
-  "hash": "985e432e0180b6370822434ab418ed9695f74129",
-  "stamp": "20261115T015634Z"
+  "hash": "35955aea0cfd87cb4ab3ffb0c6798f996af4086e",
+  "stamp": "20261116T124639Z"
  },
  "earnings-dell-oct-2026@market-calendar": {
   "uid": "earnings-dell-oct-2026@market-calendar",
@@ -1240,10 +1240,10 @@
   "start": "20261201",
   "end": "20261202",
   "summary": "MRVL earnings (after close)",
-  "description": "Marvell Technology, Inc.\nAfter the US market closes at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $0.79 (12 analyst estimates)\nSame quarter last year $0.62 (reported 12/02/2025)\nMarket cap $144B\nDate can still move until the company confirms it.",
+  "description": "Marvell Technology, Inc.\nAfter the US market closes at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $0.79 (12 analyst estimates)\nSame quarter last year $0.62 (reported 12/02/2025)\nMarket cap $137B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/mrvl/earnings",
-  "hash": "6439ced6b53368e640f7c67848b5cac0a80c705d",
-  "stamp": "20261113T215922Z"
+  "hash": "816accd78c0bd82ad9c153fe1e11e3406094b077",
+  "stamp": "20261116T124639Z"
  },
  "earnings-mu-nov-2026@market-calendar": {
   "uid": "earnings-mu-nov-2026@market-calendar",
@@ -1310,10 +1310,10 @@
   "start": "20261112",
   "end": "20261113",
   "summary": "NU earnings",
-  "description": "Nu Holdings Ltd.\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.22 (4 analyst estimates)\nMarket cap $57B\nDate can still move until the company confirms it.",
+  "description": "Nu Holdings Ltd.\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $0.22 (4 analyst estimates)\nMarket cap $64B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/nu/earnings",
-  "hash": "e5110a8a889bdc8eaa67f7916b0140eacc690d92",
-  "stamp": "20261113T215922Z"
+  "hash": "a0c404e27b4e01923e9533c4f3cb5eb868563878",
+  "stamp": "20261116T124639Z"
  },
  "earnings-nvda-oct-2026@market-calendar": {
   "uid": "earnings-nvda-oct-2026@market-calendar",
@@ -1352,10 +1352,10 @@
   "start": "20261109",
   "end": "20261110",
   "summary": "OXY earnings",
-  "description": "Occidental Petroleum Corporation\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $1.43 (10 analyst estimates)\nMarket cap $58B\nDate can still move until the company confirms it.",
+  "description": "Occidental Petroleum Corporation\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $1.43 (10 analyst estimates)\nMarket cap $59B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/oxy/earnings",
-  "hash": "fbf83e452e426486e47b63c6b75edbe66365fe36",
-  "stamp": "20261113T215922Z"
+  "hash": "6e83305c59e24e05b336550fd83536d9050edcaa",
+  "stamp": "20261116T124639Z"
  },
  "earnings-panw-oct-2026@market-calendar": {
   "uid": "earnings-panw-oct-2026@market-calendar",
@@ -1380,10 +1380,10 @@
   "start": "20261110",
   "end": "20261111",
   "summary": "PBR.A earnings",
-  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nMarket cap $117B\nDate can still move until the company confirms it.",
+  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nMarket cap $118B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/pbr.a/earnings",
-  "hash": "466dd7705d0d7016fdb3cc12ddb45c4033487bda",
-  "stamp": "20261113T215922Z"
+  "hash": "419a92d045ffdd8e28445973c56b8852d7655d87",
+  "stamp": "20261116T124639Z"
  },
  "earnings-pbr-sep-2026@market-calendar": {
   "uid": "earnings-pbr-sep-2026@market-calendar",
@@ -1394,10 +1394,10 @@
   "start": "20261110",
   "end": "20261111",
   "summary": "PBR earnings",
-  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\nMarket cap $117B\nDate can still move until the company confirms it.",
+  "description": "Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\nMarket cap $118B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/pbr/earnings",
-  "hash": "6680b69610b4c9a4351b877d20a58b409c6d710b",
-  "stamp": "20261113T215922Z"
+  "hash": "86e451e3c47a8443a8f15f56a373030bca2fe4f3",
+  "stamp": "20261116T124639Z"
  },
  "earnings-pdd-sep-2026@market-calendar": {
   "uid": "earnings-pdd-sep-2026@market-calendar",
@@ -1520,10 +1520,10 @@
   "start": "20261118",
   "end": "20261119",
   "summary": "TGT earnings (before open)",
-  "description": "Target Corporation\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.03 (12 analyst estimates)\nSame quarter last year $1.78 (reported 11/19/2025)\nMarket cap $73B\nDate can still move until the company confirms it.",
+  "description": "Target Corporation\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.04 (12 analyst estimates)\nSame quarter last year $1.78 (reported 11/19/2025)\nMarket cap $73B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/tgt/earnings",
-  "hash": "dd08a8ce30dc3cef717a322c9cb2246a606e925e",
-  "stamp": "20261113T215922Z"
+  "hash": "418d6a68ce8fc1f7a3f71517dd3742857bd8472b",
+  "stamp": "20261116T124639Z"
  },
  "earnings-tjx-oct-2026@market-calendar": {
   "uid": "earnings-tjx-oct-2026@market-calendar",

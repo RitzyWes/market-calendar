@@ -62,7 +62,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/mrna/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-b-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:B earnings
@@ -70,7 +70,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Barrick Mining Corporation\nTime of day not announced\nFiscal q
  uarter ending Sep/2026\nEPS forecast $0.74 (5 analyst estimates)\nMarket c
- ap $62B\nDate can still move until the company confirms it.
+ ap $61B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/b/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -101,7 +101,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/kkr/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-oxy-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:OXY earnings
@@ -109,12 +109,12 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Occidental Petroleum Corporation\nTime of day not announced\nFi
  scal quarter ending Sep/2026\nEPS forecast $1.43 (10 analyst estimates)\nM
- arket cap $58B\nDate can still move until the company confirms it.
+ arket cap $59B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/oxy/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-pbr-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:PBR earnings
@@ -122,19 +122,19 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\
  nFiscal quarter ending Sep/2026\nEPS forecast $1.38 (2 analyst estimates)\
- nMarket cap $117B\nDate can still move until the company confirms it.
+ nMarket cap $118B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/pbr/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-pbr-a-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:PBR.A earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Petroleo Brasileiro S.A.- Petrobras\nTime of day not announced\
- nFiscal quarter ending Sep/2026\nMarket cap $117B\nDate can still move unt
+ nFiscal quarter ending Sep/2026\nMarket cap $118B\nDate can still move unt
  il the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/pbr.a/earnings
 END:VEVENT
@@ -153,7 +153,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/tdg/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-amat-oct-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:AMAT earnings
@@ -161,12 +161,12 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Applied Materials\, Inc.\nTime of day not announced\nFiscal qua
  rter ending Oct/2026\nEPS forecast $4.06 (10 analyst estimates)\nMarket ca
- p $302B\nDate can still move until the company confirms it.
+ p $294B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/amat/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-bn-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:BN earnings
@@ -174,32 +174,32 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Brookfield Corporation\nTime of day not announced\nFiscal quart
  er ending Sep/2026\nEPS forecast $0.72 (3 analyst estimates)\nMarket cap $
- 102B\nDate can still move until the company confirms it.
+ 100B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/bn/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-csco-oct-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:CSCO earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Cisco Systems\, Inc.\nTime of day not announced\nFiscal quarter
-  ending Oct/2026\nEPS forecast $1.15 (8 analyst estimates)\nMarket cap $40
- 2B\nDate can still move until the company confirms it.
+  ending Oct/2026\nEPS forecast $1.15 (8 analyst estimates)\nMarket cap $37
+ 7B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/csco/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-nu-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:NU earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Nu Holdings Ltd.\nTime of day not announced\nFiscal quarter end
- ing Sep/2026\nEPS forecast $0.22 (4 analyst estimates)\nMarket cap $57B\nD
+ ing Sep/2026\nEPS forecast $0.22 (4 analyst estimates)\nMarket cap $64B\nD
  ate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/nu/earnings
 END:VEVENT
@@ -331,7 +331,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/panw/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-tgt-oct-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:TGT earnings (before open)
@@ -339,7 +339,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Target Corporation\nBefore the US market opens\; results usuall
  y out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/
- 2026\nEPS forecast $2.03 (12 analyst estimates)\nSame quarter last year $1
+ 2026\nEPS forecast $2.04 (12 analyst estimates)\nSame quarter last year $1
  .78 (reported 11/19/2025)\nMarket cap $73B\nDate can still move until the 
  company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/tgt/earnings
@@ -538,7 +538,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/mdt/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-de-oct-2026@market-calendar
-DTSTAMP:20261115T015634Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:DE earnings (before open)
@@ -547,13 +547,13 @@ CATEGORIES:Earnings
 DESCRIPTION:Deere & Company\nBefore the US market opens\; results usually o
  ut by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/202
  6\nEPS forecast $4.07 (1 analyst estimates)\nSame quarter last year $3.93 
- (reported N/A)\nMarket cap $183B\nDate can still move until the company co
+ (reported N/A)\nMarket cap $182B\nDate can still move until the company co
  nfirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/de/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-crwd-oct-2026@market-calendar
-DTSTAMP:20261113T105742Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:CRWD earnings (after close)
@@ -561,13 +561,13 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:CrowdStrike Holdings\, Inc.\nAfter the US market closes at 16:0
  0 New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS for
- ecast $0 (13 analyst estimates)\nMarket cap $235B\nDate can still move unt
+ ecast $0 (13 analyst estimates)\nMarket cap $232B\nDate can still move unt
  il the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/crwd/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-mrvl-oct-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:MRVL earnings (after close)
@@ -576,7 +576,7 @@ CATEGORIES:Earnings
 DESCRIPTION:Marvell Technology\, Inc.\nAfter the US market closes at 16:00 
  New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forec
  ast $0.79 (12 analyst estimates)\nSame quarter last year $0.62 (reported 1
- 2/02/2025)\nMarket cap $144B\nDate can still move until the company confir
+ 2/02/2025)\nMarket cap $137B\nDate can still move until the company confir
  ms it.
 URL:https://www.nasdaq.com/market-activity/stocks/mrvl/earnings
 END:VEVENT
@@ -756,16 +756,17 @@ URL:https://www.nasdaq.com/market-activity/stocks/orcl/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-cost-nov-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:COST earnings
+SUMMARY:COST earnings (after close)
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
-DESCRIPTION:Costco Wholesale Corporation\nTime of day not announced\nFiscal
-  quarter ending Nov/2026\nEPS forecast $4.87 (10 analyst estimates)\nSame 
- quarter last year $4.34 (reported 12/11/2025)\nMarket cap $484B\nDate can 
- still move until the company confirms it.
+DESCRIPTION:Costco Wholesale Corporation\nAfter the US market closes at 16:
+ 00 New York time (22:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS fo
+ recast $4.87 (10 analyst estimates)\nSame quarter last year $4.34 (reporte
+ d 12/11/2025)\nMarket cap $484B\nDate can still move until the company con
+ firms it.
 URL:https://www.nasdaq.com/market-activity/stocks/cost/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -784,16 +785,17 @@ URL:https://www.nasdaq.com/market-activity/stocks/mu/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-acn-nov-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261116T124639Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
-SUMMARY:ACN earnings
+SUMMARY:ACN earnings (before open)
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
-DESCRIPTION:Accenture plc\nTime of day not announced\nFiscal quarter ending
-  Nov/2026\nEPS forecast $3.90 (6 analyst estimates)\nSame quarter last yea
- r $3.94 (reported 12/18/2025)\nMarket cap $167B\nDate can still move until
-  the company confirms it.
+DESCRIPTION:Accenture plc\nBefore the US market opens\; results usually out
+  by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Nov/2026\
+ nEPS forecast $3.90 (6 analyst estimates)\nSame quarter last year $3.94 (r
+ eported 12/18/2025)\nMarket cap $167B\nDate can still move until the compa
+ ny confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/acn/earnings
 END:VEVENT
 BEGIN:VEVENT
