@@ -439,20 +439,20 @@ URL:https://www.nasdaq.com/market-activity/ipos
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-mfg-sep-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:MFG earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Mizuho Financial Group\, Inc.\nTime of day not announced\nFisca
- l quarter ending Sep/2026\nEPS forecast $0.21 (1 analyst estimates)\nMarke
- t cap $129B\nDate can still move until the company confirms it.
+ l quarter ending Sep/2026\nMarket cap $128B\nDate can still move until the
+  company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/mfg/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-mufg-sep-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:MUFG earnings
@@ -460,12 +460,12 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Mitsubishi UFJ Financial Group Inc\nTime of day not announced\n
  Fiscal quarter ending Sep/2026\nEPS forecast $0.45 (1 analyst estimates)\n
- Market cap $259B\nDate can still move until the company confirms it.
+ Market cap $239B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/mufg/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-smfg-sep-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:SMFG earnings
@@ -473,7 +473,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Sumitomo Mitsui Financial Group Inc\nTime of day not announced\
  nFiscal quarter ending Sep/2026\nEPS forecast $0.24 (1 analyst estimates)\
- nMarket cap $158B\nDate can still move until the company confirms it.
+ nMarket cap $154B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/smfg/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -490,14 +490,14 @@ URL:https://fred.stlouisfed.org/releases/calendar?rid=46
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-bhp-sep-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:BHP earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:BHP Group Limited\nTime of day not announced\nFiscal quarter en
- ding Sep/2026\nMarket cap $202B\nDate can still move until the company con
+ ding Sep/2026\nMarket cap $195B\nDate can still move until the company con
  firms it.
 URL:https://www.nasdaq.com/market-activity/stocks/bhp/earnings
 END:VEVENT
@@ -518,7 +518,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/dis/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-hd-oct-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:HD earnings (before open)
@@ -527,13 +527,13 @@ CATEGORIES:Earnings
 DESCRIPTION:Home Depot\, Inc. (The)\nBefore the US market opens\; results u
  sually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending
   Oct/2026\nEPS forecast $3.86 (11 analyst estimates)\nSame quarter last ye
- ar $3.74 (reported 11/18/2025)\nMarket cap $348B\nDate can still move unti
+ ar $3.74 (reported 11/18/2025)\nMarket cap $347B\nDate can still move unti
  l the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/hd/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-nvda-oct-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:NVDA earnings (after close)
@@ -542,7 +542,7 @@ CATEGORIES:Earnings
 DESCRIPTION:NVIDIA Corporation\nAfter the US market closes at 16:00 New Yor
  k time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.
  49 (14 analyst estimates)\nSame quarter last year $1.24 (reported 11/19/20
- 25)\nMarket cap $3.9T\nDate can still move until the company confirms it.
+ 25)\nMarket cap $3.8T\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/nvda/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -559,7 +559,7 @@ URL:https://fred.stlouisfed.org/releases/calendar?rid=9
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-low-oct-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:LOW earnings (before open)
@@ -568,13 +568,13 @@ CATEGORIES:Earnings
 DESCRIPTION:Lowe's Companies\, Inc.\nBefore the US market opens\; results u
  sually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending
   Oct/2026\nEPS forecast $2.86 (11 analyst estimates)\nSame quarter last ye
- ar $3.06 (reported 11/19/2025)\nMarket cap $128B\nDate can still move unti
+ ar $3.06 (reported 11/19/2025)\nMarket cap $126B\nDate can still move unti
  l the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/low/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-panw-oct-2026@market-calendar
-DTSTAMP:20261117T132843Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:PANW earnings (after close)
@@ -583,7 +583,7 @@ CATEGORIES:Earnings
 DESCRIPTION:Palo Alto Networks\, Inc.\nAfter the US market closes at 16:00 
  New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forec
  ast $0.52 (16 analyst estimates)\nSame quarter last year $0.53 (reported 1
- 1/19/2025)\nMarket cap $264B\nDate can still move until the company confir
+ 1/19/2025)\nMarket cap $259B\nDate can still move until the company confir
  ms it.
 URL:https://www.nasdaq.com/market-activity/stocks/panw/earnings
 END:VEVENT
@@ -604,7 +604,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/tgt/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-tjx-oct-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:TJX earnings (before open)
@@ -613,7 +613,7 @@ CATEGORIES:Earnings
 DESCRIPTION:TJX Companies\, Inc. (The)\nBefore the US market opens\; result
  s usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter end
  ing Oct/2026\nEPS forecast $1.33 (7 analyst estimates)\nSame quarter last 
- year $1.28 (reported 11/19/2025)\nMarket cap $148B\nDate can still move un
+ year $1.28 (reported 11/19/2025)\nMarket cap $144B\nDate can still move un
  til the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/tjx/earnings
 END:VEVENT
@@ -630,7 +630,7 @@ URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-baba-sep-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:BABA earnings (before open)
@@ -639,13 +639,13 @@ CATEGORIES:Earnings
 DESCRIPTION:Alibaba Group Holding Limited\nBefore the US market opens\; res
  ults usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter 
  ending Sep/2026\nEPS forecast $1.56 (2 analyst estimates)\nSame quarter la
- st year $0.44 (reported 11/25/2025)\nMarket cap $229B\nDate can still move
+ st year $0.44 (reported 11/25/2025)\nMarket cap $220B\nDate can still move
   until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/baba/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-intu-oct-2026@market-calendar
-DTSTAMP:20261113T215922Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:INTU earnings (after close)
@@ -654,7 +654,7 @@ CATEGORIES:Earnings
 DESCRIPTION:Intuit Inc.\nAfter the US market closes at 16:00 New York time 
  (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.47 (9 a
  nalyst estimates)\nSame quarter last year $1.88 (reported 11/20/2025)\nMar
- ket cap $91B\nDate can still move until the company confirms it.
+ ket cap $92B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/intu/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -669,21 +669,6 @@ DESCRIPTION:Anthropic\, PBC\nExpected to price at $70.00-78.00 per share\nR
  aising about $74B (825\,000\,000 shares)\nExchange: NASDAQ Global Select\n
  Expected dates often move\; trading usually starts the day after pricing.
 URL:https://www.nasdaq.com/market-activity/ipos
-END:VEVENT
-BEGIN:VEVENT
-UID:earnings-keys-oct-2026@market-calendar
-DTSTAMP:20261117T001517Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:KEYS earnings (after close)
-TRANSP:TRANSPARENT
-CATEGORIES:Earnings
-DESCRIPTION:Keysight Technologies Inc.\nAfter the US market closes at 16:00
-  New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS fore
- cast $3.09 (2 analyst estimates)\nSame quarter last year $1.65 (reported 1
- 1/24/2025)\nMarket cap $51B\nDate can still move until the company confirm
- s it.
-URL:https://www.nasdaq.com/market-activity/stocks/keys/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-ntes-sep-2026@market-calendar
@@ -702,7 +687,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/ntes/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-pdd-sep-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:PDD earnings (before open)
@@ -711,13 +696,13 @@ CATEGORIES:Earnings
 DESCRIPTION:PDD Holdings Inc.\nBefore the US market opens\; results usually
   out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Sep/2
  026\nEPS forecast $2.61 (2 analyst estimates)\nSame quarter last year $2.7
- 7 (reported 11/18/2025)\nMarket cap $112B\nDate can still move until the c
+ 7 (reported 11/18/2025)\nMarket cap $111B\nDate can still move until the c
  ompany confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/pdd/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-rost-oct-2026@market-calendar
-DTSTAMP:20261117T132843Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:ROST earnings (after close)
@@ -726,7 +711,7 @@ CATEGORIES:Earnings
 DESCRIPTION:Ross Stores\, Inc.\nAfter the US market closes at 16:00 New Yor
  k time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $1.
  85 (7 analyst estimates)\nSame quarter last year $1.58 (reported 11/20/202
- 5)\nMarket cap $74B\nDate can still move until the company confirms it.
+ 5)\nMarket cap $71B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/rost/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -746,7 +731,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/wmt/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-hpe-oct-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:HPE earnings (after close)
@@ -755,13 +740,13 @@ CATEGORIES:Earnings
 DESCRIPTION:Hewlett Packard Enterprise Company\nAfter the US market closes 
  at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\n
  EPS forecast $1.17 (7 analyst estimates)\nSame quarter last year $0.54 (re
- ported 12/04/2025)\nMarket cap $64B\nDate can still move until the company
+ ported 12/04/2025)\nMarket cap $62B\nDate can still move until the company
   confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/hpe/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-adi-oct-2026@market-calendar
-DTSTAMP:20261117T132843Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:ADI earnings (before open)
@@ -770,7 +755,7 @@ CATEGORIES:Earnings
 DESCRIPTION:Analog Devices\, Inc.\nBefore the US market opens\; results usu
  ally out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending O
  ct/2026\nEPS forecast $3.89 (10 analyst estimates)\nSame quarter last year
-  $2.26 (reported 11/25/2025)\nMarket cap $193B\nDate can still move until 
+  $2.26 (reported 11/25/2025)\nMarket cap $186B\nDate can still move until 
  the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/adi/earnings
 END:VEVENT
@@ -790,7 +775,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/adsk/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-dell-oct-2026@market-calendar
-DTSTAMP:20261117T001517Z
+DTSTAMP:20261117T233040Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:DELL earnings (after close)
@@ -799,7 +784,7 @@ CATEGORIES:Earnings
 DESCRIPTION:Dell Technologies Inc.\nAfter the US market closes at 16:00 New
   York time (22:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast
   $6.41 (8 analyst estimates)\nSame quarter last year $2.35 (reported 11/25
- /2025)\nMarket cap $219B\nDate can still move until the company confirms i
+ /2025)\nMarket cap $204B\nDate can still move until the company confirms i
  t.
 URL:https://www.nasdaq.com/market-activity/stocks/dell/earnings
 END:VEVENT
