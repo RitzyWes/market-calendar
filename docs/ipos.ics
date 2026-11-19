@@ -32,19 +32,6 @@ DESCRIPTION:vVARDIS Holding AG\nPriced at $18.00 per share\nRaising about $
 URL:https://www.nasdaq.com/market-activity/ipos
 END:VEVENT
 BEGIN:VEVENT
-UID:ipo-1407642-119728@market-calendar
-DTSTAMP:20261113T105304Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:IPO expected: Anthropic\, PBC (ANT)
-TRANSP:TRANSPARENT
-CATEGORIES:IPOs
-DESCRIPTION:Anthropic\, PBC\nExpected to price at $70.00-78.00 per share\nR
- aising about $74B (825\,000\,000 shares)\nExchange: NASDAQ Global Select\n
- Expected dates often move\; trading usually starts the day after pricing.
-URL:https://www.nasdaq.com/market-activity/ipos
-END:VEVENT
-BEGIN:VEVENT
 UID:ipo-1401430-119311@market-calendar
 DTSTAMP:20261118T225712Z
 DTSTART;VALUE=DATE:20261120
