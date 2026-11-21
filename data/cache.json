@@ -1240,10 +1240,10 @@
   "start": "20261118",
   "end": "20261119",
   "summary": "LOW earnings",
-  "description": "Lowe's Companies, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $2.86 (11 analyst estimates)\nMarket cap $125B\nDate can still move until the company confirms it.",
+  "description": "Lowe's Companies, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $2.86 (11 analyst estimates)\nMarket cap $123B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/low/earnings",
-  "hash": "cd22d4aae4b77a76faf70ab5f79717f8e52bb71d",
-  "stamp": "20261119T230346Z"
+  "hash": "01fe7524b4dd39af6e08784390cc90402fb09ee8",
+  "stamp": "20261121T124035Z"
  },
  "earnings-mdt-oct-2026@market-calendar": {
   "uid": "earnings-mdt-oct-2026@market-calendar",
@@ -1385,6 +1385,20 @@
   "hash": "e06966ab0f66c44480bb5d80289f21ecc2da6822",
   "stamp": "20261120T224046Z"
  },
+ "earnings-orcl-nov-2026@market-calendar": {
+  "uid": "earnings-orcl-nov-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2026-12-14",
+  "start": "20261214",
+  "end": "20261215",
+  "summary": "ORCL earnings (after close)",
+  "description": "Oracle Corporation\nAfter the US market closes at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS forecast $1.56 (10 analyst estimates)\nSame quarter last year $1.95 (reported 12/10/2025)\nMarket cap $334B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/orcl/earnings",
+  "hash": "adda514b855776b8d7582f3e872335de76dd947c",
+  "stamp": "20261121T124035Z"
+ },
  "earnings-oxy-sep-2026@market-calendar": {
   "uid": "earnings-oxy-sep-2026@market-calendar",
   "source": "earnings",
@@ -1408,10 +1422,10 @@
   "start": "20261118",
   "end": "20261119",
   "summary": "PANW earnings",
-  "description": "Palo Alto Networks, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $0.52 (16 analyst estimates)\nMarket cap $278B\nDate can still move until the company confirms it.",
+  "description": "Palo Alto Networks, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $0.52 (16 analyst estimates)\nMarket cap $296B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/panw/earnings",
-  "hash": "cff2adea8dcc556e1c79ef034690f50aa02e01f9",
-  "stamp": "20261119T230346Z"
+  "hash": "6f4e558f68336ebf60c629f4b3f9780e660c3107",
+  "stamp": "20261121T124035Z"
  },
  "earnings-pbr-a-sep-2026@market-calendar": {
   "uid": "earnings-pbr-a-sep-2026@market-calendar",
@@ -1562,10 +1576,10 @@
   "start": "20261118",
   "end": "20261119",
   "summary": "TGT earnings",
-  "description": "Target Corporation\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $2.05 (13 analyst estimates)\nMarket cap $75B\nDate can still move until the company confirms it.",
+  "description": "Target Corporation\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $2.05 (13 analyst estimates)\nMarket cap $76B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/tgt/earnings",
-  "hash": "93b4abcc8a591be6c7e70028d92bd29998c61636",
-  "stamp": "20261119T230346Z"
+  "hash": "f16ff2d0b845d62e242bbd73e59a4d0f68f9e0c9",
+  "stamp": "20261121T124035Z"
  },
  "earnings-tjx-oct-2026@market-calendar": {
   "uid": "earnings-tjx-oct-2026@market-calendar",
@@ -1576,10 +1590,10 @@
   "start": "20261118",
   "end": "20261119",
   "summary": "TJX earnings",
-  "description": "TJX Companies, Inc. (The)\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $1.33 (7 analyst estimates)\nMarket cap $154B\nDate can still move until the company confirms it.",
+  "description": "TJX Companies, Inc. (The)\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $1.33 (7 analyst estimates)\nMarket cap $153B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/tjx/earnings",
-  "hash": "fc59a08a8433ec2088a343f42ec1aa23de4a3987",
-  "stamp": "20261119T230346Z"
+  "hash": "99d39c7ce084d70cf797690fe3b5e286b1b7d0e7",
+  "stamp": "20261121T124035Z"
  },
  "earnings-wfc-dec-2026@market-calendar": {
   "uid": "earnings-wfc-dec-2026@market-calendar",

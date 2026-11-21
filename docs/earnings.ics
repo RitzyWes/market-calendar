@@ -283,7 +283,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/nvda/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-low-oct-2026@market-calendar
-DTSTAMP:20261119T230346Z
+DTSTAMP:20261121T124035Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:LOW earnings
@@ -291,12 +291,12 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Lowe's Companies\, Inc.\nTime of day not announced\nFiscal quar
  ter ending Oct/2026\nEPS forecast $2.86 (11 analyst estimates)\nMarket cap
-  $125B\nDate can still move until the company confirms it.
+  $123B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/low/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-panw-oct-2026@market-calendar
-DTSTAMP:20261119T230346Z
+DTSTAMP:20261121T124035Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:PANW earnings
@@ -304,25 +304,25 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Palo Alto Networks\, Inc.\nTime of day not announced\nFiscal qu
  arter ending Oct/2026\nEPS forecast $0.52 (16 analyst estimates)\nMarket c
- ap $278B\nDate can still move until the company confirms it.
+ ap $296B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/panw/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-tgt-oct-2026@market-calendar
-DTSTAMP:20261119T230346Z
+DTSTAMP:20261121T124035Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:TGT earnings
 TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Target Corporation\nTime of day not announced\nFiscal quarter e
- nding Oct/2026\nEPS forecast $2.05 (13 analyst estimates)\nMarket cap $75B
+ nding Oct/2026\nEPS forecast $2.05 (13 analyst estimates)\nMarket cap $76B
  \nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/tgt/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-tjx-oct-2026@market-calendar
-DTSTAMP:20261119T230346Z
+DTSTAMP:20261121T124035Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:TJX earnings
@@ -330,7 +330,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:TJX Companies\, Inc. (The)\nTime of day not announced\nFiscal q
  uarter ending Oct/2026\nEPS forecast $1.33 (7 analyst estimates)\nMarket c
- ap $154B\nDate can still move until the company confirms it.
+ ap $153B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/tjx/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -716,6 +716,20 @@ DESCRIPTION:Costco Wholesale Corporation\nAfter the US market closes at 16:
  d 12/11/2025)\nMarket cap $485B\nDate can still move until the company con
  firms it.
 URL:https://www.nasdaq.com/market-activity/stocks/cost/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-orcl-nov-2026@market-calendar
+DTSTAMP:20261121T124035Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:ORCL earnings (after close)
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Oracle Corporation\nAfter the US market closes at 16:00 New Yor
+ k time (22:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS forecast $1.
+ 56 (10 analyst estimates)\nSame quarter last year $1.95 (reported 12/10/20
+ 25)\nMarket cap $334B\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/orcl/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-mu-nov-2026@market-calendar
