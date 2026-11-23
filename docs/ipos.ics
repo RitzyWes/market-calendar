@@ -43,17 +43,4 @@ DESCRIPTION:Anthropic\, PBC\nPriced at $83.00 per share\nRaising about $81B
   (980\,000\,000 shares)\nExchange: NASDAQ Global Select
 URL:https://www.nasdaq.com/market-activity/ipos
 END:VEVENT
-BEGIN:VEVENT
-UID:ipo-1401430-119311@market-calendar
-DTSTAMP:20261118T225712Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:IPO expected: Football Manager SPAC Inc. (FBLLU)
-TRANSP:TRANSPARENT
-CATEGORIES:IPOs
-DESCRIPTION:Football Manager SPAC Inc.\nExpected to price at $10.00 per sha
- re\nRaising about $115M (10\,000\,000 shares)\nExchange: NASDAQ Global\nEx
- pected dates often move\; trading usually starts the day after pricing.
-URL:https://www.nasdaq.com/market-activity/ipos
-END:VEVENT
 END:VCALENDAR
