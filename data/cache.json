@@ -960,10 +960,10 @@
   "start": "20261202",
   "end": "20261203",
   "summary": "BNS earnings (before open)",
-  "description": "Bank of Nova Scotia (The)\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $1.55 (3 analyst estimates)\nSame quarter last year $1.39 (reported 12/02/2025)\nMarket cap $104B\nDate can still move until the company confirms it.",
+  "description": "Bank of Nova Scotia (The)\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $1.54 (3 analyst estimates)\nSame quarter last year $1.39 (reported 12/02/2025)\nMarket cap $104B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/bns/earnings",
-  "hash": "7ae02346073ccf8cecaa3c7bdf75e298b164b74f",
-  "stamp": "20261125T142429Z"
+  "hash": "43b7b9fa395d92ef61ca90427278d062440da7f4",
+  "stamp": "20261126T135454Z"
  },
  "earnings-bny-dec-2026@market-calendar": {
   "uid": "earnings-bny-dec-2026@market-calendar",
@@ -1104,6 +1104,20 @@
   "url": "https://www.nasdaq.com/market-activity/stocks/dal/earnings",
   "hash": "1136957db69c68bf27e1289a3d02eca3fc594f65",
   "stamp": "20261126T002201Z"
+ },
+ "earnings-de-oct-2026@market-calendar": {
+  "uid": "earnings-de-oct-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2026-11-25",
+  "start": "20261125",
+  "end": "20261126",
+  "summary": "DE earnings",
+  "description": "Deere & Company\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $4.07 (9 analyst estimates)\nMarket cap $165B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/de/earnings",
+  "hash": "afc8f2295f5936e9fec7032cae3a0853c0d6b603",
+  "stamp": "20261126T135454Z"
  },
  "earnings-dell-oct-2026@market-calendar": {
   "uid": "earnings-dell-oct-2026@market-calendar",
@@ -1259,6 +1273,20 @@
   "hash": "82198368ea57338d363c4b6a6c9615f8769b9dab",
   "stamp": "20261125T142429Z"
  },
+ "earnings-jnj-dec-2026@market-calendar": {
+  "uid": "earnings-jnj-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-20",
+  "start": "20270120",
+  "end": "20270121",
+  "summary": "JNJ earnings",
+  "description": "Johnson & Johnson\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $2.91 (7 analyst estimates)\nSame quarter last year $2.46 (reported 1/21/2026)\nMarket cap $666B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/jnj/earnings",
+  "hash": "4e8af6035abcfce362a1fe1c6e73d631fc9efd88",
+  "stamp": "20261126T135454Z"
+ },
  "earnings-jpm-dec-2026@market-calendar": {
   "uid": "earnings-jpm-dec-2026@market-calendar",
   "source": "earnings",
@@ -1286,6 +1314,20 @@
   "url": "https://www.nasdaq.com/market-activity/stocks/kkr/earnings",
   "hash": "a9923950fa3af906afe4c05b08a4d3b919df4a46",
   "stamp": "20261113T215922Z"
+ },
+ "earnings-kmi-dec-2026@market-calendar": {
+  "uid": "earnings-kmi-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-20",
+  "start": "20270120",
+  "end": "20270121",
+  "summary": "KMI earnings",
+  "description": "Kinder Morgan, Inc.\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $0.37 (9 analyst estimates)\nSame quarter last year $0.39 (reported 1/21/2026)\nMarket cap $69B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/kmi/earnings",
+  "hash": "804857777b783f23b40a20a736fde6799bccd0f6",
+  "stamp": "20261126T135454Z"
  },
  "earnings-low-oct-2026@market-calendar": {
   "uid": "earnings-low-oct-2026@market-calendar",
@@ -1553,6 +1595,20 @@
   "hash": "c97a1bbee82320f66b43c9fb6f685041278c24d1",
   "stamp": "20261125T004540Z"
  },
+ "earnings-pld-dec-2026@market-calendar": {
+  "uid": "earnings-pld-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-20",
+  "start": "20270120",
+  "end": "20270121",
+  "summary": "PLD earnings",
+  "description": "Prologis, Inc.\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $1.55 (2 analyst estimates)\nSame quarter last year $1.44 (reported 1/21/2026)\nMarket cap $121B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/pld/earnings",
+  "hash": "1df074a74a74d35474ffdf75f493d7bb4e9c608a",
+  "stamp": "20261126T135454Z"
+ },
  "earnings-pnc-dec-2026@market-calendar": {
   "uid": "earnings-pnc-dec-2026@market-calendar",
   "source": "earnings",
@@ -1590,10 +1646,24 @@
   "start": "20261203",
   "end": "20261204",
   "summary": "RY earnings (before open)",
-  "description": "Royal Bank Of Canada\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.93 (4 analyst estimates)\nSame quarter last year $2.76 (reported 12/03/2025)\nMarket cap $262B\nDate can still move until the company confirms it.",
+  "description": "Royal Bank Of Canada\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $2.94 (4 analyst estimates)\nSame quarter last year $2.76 (reported 12/03/2025)\nMarket cap $262B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/ry/earnings",
-  "hash": "d0f5aa2e715f21e3fdee588c9d3a6016e171329a",
-  "stamp": "20261126T002201Z"
+  "hash": "d7db1bd87498f9c191b1da75e4b664ef274250ab",
+  "stamp": "20261126T135454Z"
+ },
+ "earnings-schw-dec-2026@market-calendar": {
+  "uid": "earnings-schw-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-20",
+  "start": "20270120",
+  "end": "20270121",
+  "summary": "SCHW earnings",
+  "description": "The Charles Schwab Corporation\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $1.72 (11 analyst estimates)\nSame quarter last year $1.39 (reported 1/21/2026)\nMarket cap $162B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/schw/earnings",
+  "hash": "2063728cc88f297d49cc61d6733377cde537baa4",
+  "stamp": "20261126T135454Z"
  },
  "earnings-smfg-sep-2026@market-calendar": {
   "uid": "earnings-smfg-sep-2026@market-calendar",
@@ -1660,10 +1730,10 @@
   "start": "20261203",
   "end": "20261204",
   "summary": "TD earnings (before open)",
-  "description": "Toronto Dominion Bank (The)\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $1.77 (3 analyst estimates)\nSame quarter last year $1.57 (reported 12/04/2025)\nMarket cap $189B\nDate can still move until the company confirms it.",
+  "description": "Toronto Dominion Bank (The)\nBefore the US market opens; results usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oct/2026\nEPS forecast $1.76 (3 analyst estimates)\nSame quarter last year $1.57 (reported 12/04/2025)\nMarket cap $189B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/td/earnings",
-  "hash": "50e1bee7124aab4009ae491b44627b5130e03cfd",
-  "stamp": "20261125T004540Z"
+  "hash": "9006d324b033f6947e1a213b0109803fdc64f465",
+  "stamp": "20261126T135454Z"
  },
  "earnings-tdg-sep-2026@market-calendar": {
   "uid": "earnings-tdg-sep-2026@market-calendar",
@@ -1678,6 +1748,34 @@
   "url": "https://www.nasdaq.com/market-activity/stocks/tdg/earnings",
   "hash": "d53bc35c1c32837ab378c6af98ba8ad2a5bd9acf",
   "stamp": "20261113T215922Z"
+ },
+ "earnings-tel-dec-2026@market-calendar": {
+  "uid": "earnings-tel-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-20",
+  "start": "20270120",
+  "end": "20270121",
+  "summary": "TEL earnings",
+  "description": "TE Connectivity plc\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $3.30 (3 analyst estimates)\nSame quarter last year $2.72 (reported 1/21/2026)\nMarket cap $60B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/tel/earnings",
+  "hash": "97b5ee7381285dae8664bce12d31cccef7e5bbc2",
+  "stamp": "20261126T135454Z"
+ },
+ "earnings-tfc-dec-2026@market-calendar": {
+  "uid": "earnings-tfc-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-20",
+  "start": "20270120",
+  "end": "20270121",
+  "summary": "TFC earnings",
+  "description": "Truist Financial Corporation\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $1.22 (9 analyst estimates)\nSame quarter last year $1.12 (reported 1/21/2026)\nMarket cap $57B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/tfc/earnings",
+  "hash": "04d10674723d0f04e8c856436fe6dbc25a82cf33",
+  "stamp": "20261126T135454Z"
  },
  "earnings-tgt-oct-2026@market-calendar": {
   "uid": "earnings-tgt-oct-2026@market-calendar",
@@ -1706,6 +1804,20 @@
   "url": "https://www.nasdaq.com/market-activity/stocks/tjx/earnings",
   "hash": "0841208c9c4898718f51a38b7c6695ccc0dc7965",
   "stamp": "20261126T002201Z"
+ },
+ "earnings-trv-dec-2026@market-calendar": {
+  "uid": "earnings-trv-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-20",
+  "start": "20270120",
+  "end": "20270121",
+  "summary": "TRV earnings",
+  "description": "The Travelers Companies, Inc.\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $9.73 (12 analyst estimates)\nSame quarter last year $11.13 (reported 1/21/2026)\nMarket cap $82B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/trv/earnings",
+  "hash": "ca2a608db901c35a824b1cb7294923800d6091c9",
+  "stamp": "20261126T135454Z"
  },
  "earnings-usb-dec-2026@market-calendar": {
   "uid": "earnings-usb-dec-2026@market-calendar",

@@ -503,6 +503,19 @@ DESCRIPTION:Medtronic plc\nTime of day not announced\nFiscal quarter ending
 URL:https://www.nasdaq.com/market-activity/stocks/mdt/earnings
 END:VEVENT
 BEGIN:VEVENT
+UID:earnings-de-oct-2026@market-calendar
+DTSTAMP:20261126T135454Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:DE earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Deere & Company\nTime of day not announced\nFiscal quarter endi
+ ng Oct/2026\nEPS forecast $4.07 (9 analyst estimates)\nMarket cap $165B\nD
+ ate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/de/earnings
+END:VEVENT
+BEGIN:VEVENT
 UID:earnings-bhp-sep-2026@market-calendar
 DTSTAMP:20261125T142429Z
 DTSTART;VALUE=DATE:20261201
@@ -547,7 +560,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/bmo/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-bns-oct-2026@market-calendar
-DTSTAMP:20261125T142429Z
+DTSTAMP:20261126T135454Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:BNS earnings (before open)
@@ -555,7 +568,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Bank of Nova Scotia (The)\nBefore the US market opens\; results
   usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter endi
- ng Oct/2026\nEPS forecast $1.55 (3 analyst estimates)\nSame quarter last y
+ ng Oct/2026\nEPS forecast $1.54 (3 analyst estimates)\nSame quarter last y
  ear $1.39 (reported 12/02/2025)\nMarket cap $104B\nDate can still move unt
  il the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/bns/earnings
@@ -605,7 +618,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/cm/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-ry-oct-2026@market-calendar
-DTSTAMP:20261126T002201Z
+DTSTAMP:20261126T135454Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:RY earnings (before open)
@@ -613,14 +626,14 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Royal Bank Of Canada\nBefore the US market opens\; results usua
  lly out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter ending Oc
- t/2026\nEPS forecast $2.93 (4 analyst estimates)\nSame quarter last year $
+ t/2026\nEPS forecast $2.94 (4 analyst estimates)\nSame quarter last year $
  2.76 (reported 12/03/2025)\nMarket cap $262B\nDate can still move until th
  e company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/ry/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-td-oct-2026@market-calendar
-DTSTAMP:20261125T004540Z
+DTSTAMP:20261126T135454Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:TD earnings (before open)
@@ -628,7 +641,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Toronto Dominion Bank (The)\nBefore the US market opens\; resul
  ts usually out by 08:00 New York time (14:00 Amsterdam)\nFiscal quarter en
- ding Oct/2026\nEPS forecast $1.77 (3 analyst estimates)\nSame quarter last
+ ding Oct/2026\nEPS forecast $1.76 (3 analyst estimates)\nSame quarter last
   year $1.57 (reported 12/04/2025)\nMarket cap $189B\nDate can still move u
  ntil the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/td/earnings
@@ -987,5 +1000,103 @@ DESCRIPTION:Space Exploration Technologies Corp.\nTime of day not announced
  \nFiscal quarter ending Dec/2026\nEPS forecast $0.31 (6 analyst estimates)
  \nMarket cap $1.7T\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/spcx/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-jnj-dec-2026@market-calendar
+DTSTAMP:20261126T135454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:JNJ earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Johnson & Johnson\nTime of day not announced\nFiscal quarter en
+ ding Dec/2026\nEPS forecast $2.91 (7 analyst estimates)\nSame quarter last
+  year $2.46 (reported 1/21/2026)\nMarket cap $666B\nDate can still move un
+ til the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/jnj/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-kmi-dec-2026@market-calendar
+DTSTAMP:20261126T135454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:KMI earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Kinder Morgan\, Inc.\nTime of day not announced\nFiscal quarter
+  ending Dec/2026\nEPS forecast $0.37 (9 analyst estimates)\nSame quarter l
+ ast year $0.39 (reported 1/21/2026)\nMarket cap $69B\nDate can still move 
+ until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/kmi/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-pld-dec-2026@market-calendar
+DTSTAMP:20261126T135454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:PLD earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Prologis\, Inc.\nTime of day not announced\nFiscal quarter endi
+ ng Dec/2026\nEPS forecast $1.55 (2 analyst estimates)\nSame quarter last y
+ ear $1.44 (reported 1/21/2026)\nMarket cap $121B\nDate can still move unti
+ l the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/pld/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-schw-dec-2026@market-calendar
+DTSTAMP:20261126T135454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:SCHW earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:The Charles Schwab Corporation\nTime of day not announced\nFisc
+ al quarter ending Dec/2026\nEPS forecast $1.72 (11 analyst estimates)\nSam
+ e quarter last year $1.39 (reported 1/21/2026)\nMarket cap $162B\nDate can
+  still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/schw/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-tel-dec-2026@market-calendar
+DTSTAMP:20261126T135454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:TEL earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:TE Connectivity plc\nTime of day not announced\nFiscal quarter 
+ ending Dec/2026\nEPS forecast $3.30 (3 analyst estimates)\nSame quarter la
+ st year $2.72 (reported 1/21/2026)\nMarket cap $60B\nDate can still move u
+ ntil the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/tel/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-tfc-dec-2026@market-calendar
+DTSTAMP:20261126T135454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:TFC earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Truist Financial Corporation\nTime of day not announced\nFiscal
+  quarter ending Dec/2026\nEPS forecast $1.22 (9 analyst estimates)\nSame q
+ uarter last year $1.12 (reported 1/21/2026)\nMarket cap $57B\nDate can sti
+ ll move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/tfc/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-trv-dec-2026@market-calendar
+DTSTAMP:20261126T135454Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:TRV earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:The Travelers Companies\, Inc.\nTime of day not announced\nFisc
+ al quarter ending Dec/2026\nEPS forecast $9.73 (12 analyst estimates)\nSam
+ e quarter last year $11.13 (reported 1/21/2026)\nMarket cap $82B\nDate can
+  still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/trv/earnings
 END:VEVENT
 END:VCALENDAR
