@@ -9,18 +9,6 @@ X-WR-CALDESC:Fed and ECB rate decisions\, FOMC minutes and major US economi
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:fomc-2026-07-29@market-calendar
-DTSTAMP:20261113T105333Z
-DTSTART:20260729T180000Z
-DTEND:20260729T193000Z
-SUMMARY:Fed rate decision + press conference
-TRANSP:TRANSPARENT
-CATEGORIES:Fed\, ECB & US data
-DESCRIPTION:FOMC meeting 28 Jul to 29 Jul 2026.\nStatement at 14:00 New Yor
- k time (20:00 Amsterdam)\, press conference 30 minutes later.
-URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
-END:VEVENT
-BEGIN:VEVENT
 UID:bea-2989d2ad-202c-48c8-ab87-51eafc234f96@market-calendar
 DTSTAMP:20261113T105304Z
 DTSTART:20260730T123000Z

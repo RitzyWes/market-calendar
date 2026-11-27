@@ -750,10 +750,10 @@
   "start": "20261123",
   "end": "20261124",
   "summary": "A earnings",
-  "description": "Agilent Technologies, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $1.72 (7 analyst estimates)\nMarket cap $52B\nDate can still move until the company confirms it.",
+  "description": "Agilent Technologies, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $1.72 (7 analyst estimates)\nMarket cap $50B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/a/earnings",
-  "hash": "458a1b22d9ce367c5865f9b2f225de9a1912c41e",
-  "stamp": "20261125T142429Z"
+  "hash": "03571fb84d990c5d69de59ba46aa55f97a5c963c",
+  "stamp": "20261127T135301Z"
  },
  "earnings-acn-nov-2026@market-calendar": {
   "uid": "earnings-acn-nov-2026@market-calendar",
@@ -778,10 +778,10 @@
   "start": "20261209",
   "end": "20261210",
   "summary": "ADBE earnings (after close)",
-  "description": "Adobe Inc.\nAfter the US market closes at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS forecast $5.11 (12 analyst estimates)\nSame quarter last year $4.55 (reported 12/10/2025)\nMarket cap $90B\nDate can still move until the company confirms it.",
+  "description": "Adobe Inc.\nAfter the US market closes at 16:00 New York time (22:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS forecast $5.11 (12 analyst estimates)\nSame quarter last year $4.55 (reported 12/10/2025)\nMarket cap $91B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/adbe/earnings",
-  "hash": "489ccd90a48ce7e7d1dfc1c985f1df85b69c3aa9",
-  "stamp": "20261126T002201Z"
+  "hash": "5d4d909f140a46cd295ecc866164560aa6df57a7",
+  "stamp": "20261127T135301Z"
  },
  "earnings-adi-oct-2026@market-calendar": {
   "uid": "earnings-adi-oct-2026@market-calendar",
@@ -923,6 +923,20 @@
   "hash": "2c0e650b534ef73553da15f265321fe1c1b09dfd",
   "stamp": "20261125T142429Z"
  },
+ "earnings-blk-dec-2026@market-calendar": {
+  "uid": "earnings-blk-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-21",
+  "start": "20270121",
+  "end": "20270122",
+  "summary": "BLK earnings",
+  "description": "BlackRock, Inc.\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $15.53 (7 analyst estimates)\nSame quarter last year $13.16 (reported 1/15/2026)\nMarket cap $177B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/blk/earnings",
+  "hash": "f22944b5bfb6d8d846ba326305d931517dc717d9",
+  "stamp": "20261127T135301Z"
+ },
  "earnings-bmo-oct-2026@market-calendar": {
   "uid": "earnings-bmo-oct-2026@market-calendar",
   "source": "earnings",
@@ -1058,10 +1072,10 @@
   "start": "20261123",
   "end": "20261124",
   "summary": "CRWD earnings",
-  "description": "CrowdStrike Holdings, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $0 (13 analyst estimates)\nMarket cap $217B\nDate can still move until the company confirms it.",
+  "description": "CrowdStrike Holdings, Inc.\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $0 (13 analyst estimates)\nMarket cap $216B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/crwd/earnings",
-  "hash": "2f0d85733d588c970d084f7418912297d4dec2cc",
-  "stamp": "20261125T142429Z"
+  "hash": "5527593e4f5c5b6b378eed3ada51917559134b73",
+  "stamp": "20261127T135301Z"
  },
  "earnings-csco-oct-2026@market-calendar": {
   "uid": "earnings-csco-oct-2026@market-calendar",
@@ -1175,6 +1189,20 @@
   "hash": "c13cde8cb143a43a8c9eb824ad42e45a1823c573",
   "stamp": "20261125T142429Z"
  },
+ "earnings-gs-dec-2026@market-calendar": {
+  "uid": "earnings-gs-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-21",
+  "start": "20270121",
+  "end": "20270122",
+  "summary": "GS earnings",
+  "description": "The Goldman Sachs Group, Inc.\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $15.55 (8 analyst estimates)\nSame quarter last year $14.01 (reported 1/15/2026)\nMarket cap $232B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/gs/earnings",
+  "hash": "973d9642145c90ab16c76a67f5028160aecb671f",
+  "stamp": "20261127T135301Z"
+ },
  "earnings-hd-oct-2026@market-calendar": {
   "uid": "earnings-hd-oct-2026@market-calendar",
   "source": "earnings",
@@ -1212,10 +1240,10 @@
   "start": "20261123",
   "end": "20261124",
   "summary": "HPE earnings",
-  "description": "Hewlett Packard Enterprise Company\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $1.18 (7 analyst estimates)\nMarket cap $53B\nDate can still move until the company confirms it.",
+  "description": "Hewlett Packard Enterprise Company\nTime of day not announced\nFiscal quarter ending Oct/2026\nEPS forecast $1.18 (7 analyst estimates)\nMarket cap $54B\nDate can still move until the company confirms it.",
   "url": "https://www.nasdaq.com/market-activity/stocks/hpe/earnings",
-  "hash": "86b0acb71a8d350802e5035d35c0ae1b659cb821",
-  "stamp": "20261125T142429Z"
+  "hash": "a80ca0b0fed776a5f17101f35da1ee752b64d0e9",
+  "stamp": "20261127T135301Z"
  },
  "earnings-hum-sep-2026@market-calendar": {
   "uid": "earnings-hum-sep-2026@market-calendar",
@@ -1412,6 +1440,20 @@
   "url": "https://www.nasdaq.com/market-activity/stocks/mrvl/earnings",
   "hash": "5f81ec7968d01f7bb6a77d23be32c9b1322d1bbd",
   "stamp": "20261125T142429Z"
+ },
+ "earnings-ms-dec-2026@market-calendar": {
+  "uid": "earnings-ms-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-21",
+  "start": "20270121",
+  "end": "20270122",
+  "summary": "MS earnings",
+  "description": "Morgan Stanley\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $2.93 (7 analyst estimates)\nSame quarter last year $2.68 (reported 1/15/2026)\nMarket cap $264B\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/ms/earnings",
+  "hash": "d941740952637471bac7734f92fff3340257743b",
+  "stamp": "20261127T135301Z"
  },
  "earnings-mu-nov-2026@market-calendar": {
   "uid": "earnings-mu-nov-2026@market-calendar",
@@ -1819,6 +1861,20 @@
   "hash": "ca2a608db901c35a824b1cb7294923800d6091c9",
   "stamp": "20261126T135454Z"
  },
+ "earnings-tsm-dec-2026@market-calendar": {
+  "uid": "earnings-tsm-dec-2026@market-calendar",
+  "source": "earnings",
+  "feed": "earnings",
+  "allday": true,
+  "day": "2027-01-21",
+  "start": "20270121",
+  "end": "20270122",
+  "summary": "TSM earnings",
+  "description": "Taiwan Semiconductor Manufacturing Company Ltd.\nTime of day not announced\nFiscal quarter ending Dec/2026\nEPS forecast $5.17 (6 analyst estimates)\nSame quarter last year $3.14 (reported 1/15/2026)\nMarket cap $1.8T\nDate can still move until the company confirms it.",
+  "url": "https://www.nasdaq.com/market-activity/stocks/tsm/earnings",
+  "hash": "d6270fc26b7aae0a1c29d99cf4ad5459574f0bbf",
+  "stamp": "20261127T135301Z"
+ },
  "earnings-usb-dec-2026@market-calendar": {
   "uid": "earnings-usb-dec-2026@market-calendar",
   "source": "earnings",
@@ -2098,20 +2154,6 @@
   "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
   "hash": "27bf97347d323015b619aa15da9b7b0de5e673a9",
   "stamp": "20261113T105304Z"
- },
- "fomc-2026-07-29@market-calendar": {
-  "uid": "fomc-2026-07-29@market-calendar",
-  "source": "fomc",
-  "feed": "macro",
-  "allday": false,
-  "day": "2026-07-29",
-  "start": "20260729T180000Z",
-  "end": "20260729T193000Z",
-  "summary": "Fed rate decision + press conference",
-  "description": "FOMC meeting 28 Jul to 29 Jul 2026.\nStatement at 14:00 New York time (20:00 Amsterdam), press conference 30 minutes later.",
-  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
-  "hash": "fe4cb5c6591271f7a61e32f8cd2a2c508dbd929e",
-  "stamp": "20261113T105333Z"
  },
  "fomc-2026-09-16@market-calendar": {
   "uid": "fomc-2026-09-16@market-calendar",
@@ -2546,6 +2588,20 @@
   "url": "https://www.nasdaq.com/market-activity/ipos",
   "hash": "99b6a19d2e9e1ec304c6df69e0f1818011fb6e9f",
   "stamp": "20261117T001517Z"
+ },
+ "ipo-1401430-119311@market-calendar": {
+  "uid": "ipo-1401430-119311@market-calendar",
+  "source": "ipos",
+  "feed": "ipos",
+  "allday": true,
+  "day": "2026-11-25",
+  "start": "20261125",
+  "end": "20261126",
+  "summary": "IPO priced: Football Manager SPAC Inc. (FBLLU)",
+  "description": "Football Manager SPAC Inc.\nPriced at $10.00 per share\nRaising about $100M (10,000,000 shares)\nExchange: NASDAQ Global",
+  "url": "https://www.nasdaq.com/market-activity/ipos",
+  "hash": "39d199c26f1ac06fbc44cd9cbf538955aea8b7af",
+  "stamp": "20261127T135301Z"
  },
  "ipo-1407588-119709@market-calendar": {
   "uid": "ipo-1407588-119709@market-calendar",

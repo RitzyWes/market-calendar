@@ -8,18 +8,6 @@ X-WR-CALDESC:Earnings\, IPOs\, central bank decisions and US economic data.
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:fomc-2026-07-29@market-calendar
-DTSTAMP:20261113T105333Z
-DTSTART:20260729T180000Z
-DTEND:20260729T193000Z
-SUMMARY:Fed rate decision + press conference
-TRANSP:TRANSPARENT
-CATEGORIES:Fed\, ECB & US data
-DESCRIPTION:FOMC meeting 28 Jul to 29 Jul 2026.\nStatement at 14:00 New Yor
- k time (20:00 Amsterdam)\, press conference 30 minutes later.
-URL:https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
-END:VEVENT
-BEGIN:VEVENT
 UID:bea-2989d2ad-202c-48c8-ab87-51eafc234f96@market-calendar
 DTSTAMP:20261113T105304Z
 DTSTART:20260730T123000Z
@@ -694,7 +682,7 @@ URL:https://www.nasdaq.com/market-activity/stocks/wmt/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-a-oct-2026@market-calendar
-DTSTAMP:20261125T142429Z
+DTSTAMP:20261127T135301Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:A earnings
@@ -702,12 +690,12 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Agilent Technologies\, Inc.\nTime of day not announced\nFiscal 
  quarter ending Oct/2026\nEPS forecast $1.72 (7 analyst estimates)\nMarket 
- cap $52B\nDate can still move until the company confirms it.
+ cap $50B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/a/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-crwd-oct-2026@market-calendar
-DTSTAMP:20261125T142429Z
+DTSTAMP:20261127T135301Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:CRWD earnings
@@ -715,12 +703,12 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:CrowdStrike Holdings\, Inc.\nTime of day not announced\nFiscal 
  quarter ending Oct/2026\nEPS forecast $0 (13 analyst estimates)\nMarket ca
- p $217B\nDate can still move until the company confirms it.
+ p $216B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/crwd/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-hpe-oct-2026@market-calendar
-DTSTAMP:20261125T142429Z
+DTSTAMP:20261127T135301Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:HPE earnings
@@ -728,7 +716,7 @@ TRANSP:TRANSPARENT
 CATEGORIES:Earnings
 DESCRIPTION:Hewlett Packard Enterprise Company\nTime of day not announced\n
  Fiscal quarter ending Oct/2026\nEPS forecast $1.18 (7 analyst estimates)\n
- Market cap $53B\nDate can still move until the company confirms it.
+ Market cap $54B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/hpe/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -795,6 +783,18 @@ DESCRIPTION:Deere & Company\nTime of day not announced\nFiscal quarter endi
  ng Oct/2026\nEPS forecast $4.07 (9 analyst estimates)\nMarket cap $165B\nD
  ate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/de/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:ipo-1401430-119311@market-calendar
+DTSTAMP:20261127T135301Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:IPO priced: Football Manager SPAC Inc. (FBLLU)
+TRANSP:TRANSPARENT
+CATEGORIES:IPOs
+DESCRIPTION:Football Manager SPAC Inc.\nPriced at $10.00 per share\nRaising
+  about $100M (10\,000\,000 shares)\nExchange: NASDAQ Global
+URL:https://www.nasdaq.com/market-activity/ipos
 END:VEVENT
 BEGIN:VEVENT
 UID:bea-395d58c3-51cf-44ef-b5bd-d35240623299@market-calendar
@@ -1020,7 +1020,7 @@ URL:https://www.bea.gov/news/schedule
 END:VEVENT
 BEGIN:VEVENT
 UID:earnings-adbe-nov-2026@market-calendar
-DTSTAMP:20261126T002201Z
+DTSTAMP:20261127T135301Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:ADBE earnings (after close)
@@ -1029,7 +1029,7 @@ CATEGORIES:Earnings
 DESCRIPTION:Adobe Inc.\nAfter the US market closes at 16:00 New York time (
  22:00 Amsterdam)\nFiscal quarter ending Nov/2026\nEPS forecast $5.11 (12 a
  nalyst estimates)\nSame quarter last year $4.55 (reported 12/10/2025)\nMar
- ket cap $90B\nDate can still move until the company confirms it.
+ ket cap $91B\nDate can still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/adbe/earnings
 END:VEVENT
 BEGIN:VEVENT
@@ -1553,6 +1553,62 @@ DESCRIPTION:The Travelers Companies\, Inc.\nTime of day not announced\nFisc
  e quarter last year $11.13 (reported 1/21/2026)\nMarket cap $82B\nDate can
   still move until the company confirms it.
 URL:https://www.nasdaq.com/market-activity/stocks/trv/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-blk-dec-2026@market-calendar
+DTSTAMP:20261127T135301Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:BLK earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:BlackRock\, Inc.\nTime of day not announced\nFiscal quarter end
+ ing Dec/2026\nEPS forecast $15.53 (7 analyst estimates)\nSame quarter last
+  year $13.16 (reported 1/15/2026)\nMarket cap $177B\nDate can still move u
+ ntil the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/blk/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-gs-dec-2026@market-calendar
+DTSTAMP:20261127T135301Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:GS earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:The Goldman Sachs Group\, Inc.\nTime of day not announced\nFisc
+ al quarter ending Dec/2026\nEPS forecast $15.55 (8 analyst estimates)\nSam
+ e quarter last year $14.01 (reported 1/15/2026)\nMarket cap $232B\nDate ca
+ n still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/gs/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-ms-dec-2026@market-calendar
+DTSTAMP:20261127T135301Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:MS earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Morgan Stanley\nTime of day not announced\nFiscal quarter endin
+ g Dec/2026\nEPS forecast $2.93 (7 analyst estimates)\nSame quarter last ye
+ ar $2.68 (reported 1/15/2026)\nMarket cap $264B\nDate can still move until
+  the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/ms/earnings
+END:VEVENT
+BEGIN:VEVENT
+UID:earnings-tsm-dec-2026@market-calendar
+DTSTAMP:20261127T135301Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:TSM earnings
+TRANSP:TRANSPARENT
+CATEGORIES:Earnings
+DESCRIPTION:Taiwan Semiconductor Manufacturing Company Ltd.\nTime of day no
+ t announced\nFiscal quarter ending Dec/2026\nEPS forecast $5.17 (6 analyst
+  estimates)\nSame quarter last year $3.14 (reported 1/15/2026)\nMarket cap
+  $1.8T\nDate can still move until the company confirms it.
+URL:https://www.nasdaq.com/market-activity/stocks/tsm/earnings
 END:VEVENT
 BEGIN:VEVENT
 UID:fomc-2027-01-27@market-calendar
